@@ -38,10 +38,10 @@
 <br />
 
 ---
-<p>
-    <img align="left" alt="CryptoSingh1337's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CryptoSingh1337&show_icons=true&hide_border=true" />
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact)
-</p>
+
+ <img align="left" alt="CryptoSingh1337's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CryptoSingh1337&show_icons=true&hide_border=true" />
+ 
+ (https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact)
 
 [website]: https://cryptosingh1337.github.io/my-site/
 [youtube]: https://www.youtube.com/cryptosingh
