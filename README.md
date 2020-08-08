@@ -39,9 +39,9 @@
 
 ---
 
- ![CryptoSingh's github stats](https://github-readme-stats.vercel.app/api?username=CryptoSingh1337)
+ ![CryptoSingh's github stats](https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact)
 
 [website]: https://cryptosingh1337.github.io/my-site/
 [youtube]: https://www.youtube.com/cryptosingh
