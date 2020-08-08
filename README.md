@@ -41,7 +41,7 @@
 
 <img align="left" alt="CryptoSingh1337's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CryptoSingh1337&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/CryptoSingh1337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337)]
 
 [website]: https://cryptosingh1337.github.io/my-site/
 [youtube]: https://www.youtube.com/cryptosingh
