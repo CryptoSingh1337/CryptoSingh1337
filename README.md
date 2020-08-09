@@ -1,8 +1,8 @@
 ### Hi there, I'm Saransh - aka CryptoSingh 👋
 
 ## I'm a Student and a Gamer!
-- 🔭 I’m currently working on some Projects!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on my programming skills!
+- 🌱 I’m currently learning Java and DSA.
 - ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games. 
 
 ### Connect with me:
