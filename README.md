@@ -29,9 +29,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal"/>
 </br>
 </br>
+
 ---
 
-![CryptoSingh's github stats](https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical)
+![CryptoSingh's github stats](https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact)
 
