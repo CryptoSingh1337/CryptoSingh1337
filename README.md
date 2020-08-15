@@ -30,7 +30,7 @@
 </br>
 </br>
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.CryptoSingh1337.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical" />
+![CryptoSingh's github stats](https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact)
 
