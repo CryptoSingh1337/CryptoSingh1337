@@ -27,14 +27,12 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" title="GitHub"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal"/>
-<br />
-
+</br>
+</br>
 ---
-<div align="center">
-    ![CryptoSingh's github stats](https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs)
+![CryptoSingh's github stats](https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs)
  
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact)
- </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact)
 
 [website]: https://cryptosingh1337.github.io/my-site/
 [youtube]: https://www.youtube.com/cryptosingh
