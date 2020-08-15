@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img align="left" alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs" />
-<img align="left" alt="CryptoSingh's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact&theme=radical" />
+<img  alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs" title="Stats" />
+<img  alt="CryptoSingh's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact&theme=radical" title="Top Language"/>
 
 </div>
 
