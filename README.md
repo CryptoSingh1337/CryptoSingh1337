@@ -1,4 +1,4 @@
-### Hi there, I'm Saransh - aka CryptoSingh 👋<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="left"/>
+### Hi there, I'm Saransh - aka CryptoSingh 👋<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="right"/>
 
 ## I'm a Student and a Gamer!
 - 🔭 I’m currently working on my programming skills!
