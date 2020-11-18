@@ -1,6 +1,6 @@
-### Hi there, I'm Saransh - aka CryptoSingh 👋<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="right"/>
+### Hi there, I'm Saransh - aka CryptoSingh 👋
 
-## I'm a Student and a Gamer!
+## I'm a Student and a Gamer!<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="right"/>
 - 🔭 I’m currently working on my programming skills!
 - 🌱 I’m currently learning Java and DSA.
 - ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games. 
