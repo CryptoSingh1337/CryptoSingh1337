@@ -8,8 +8,8 @@
 ### Connect with me:
 
 <a href="https://cryptosingh1337.github.io/my-site/"><img alt="CryptoSingh" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/></a>
-<a href="https://www.youtube.com/cryptosingh"></a><img alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-<a href="https://www.linkedin.com/in/saransh-kumar-2k19/"></a><img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a href="https://www.youtube.com/cryptosingh"><img alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
+<a href="https://www.linkedin.com/in/saransh-kumar-2k19/"><img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 
 ### Technologies and Tools:
 
