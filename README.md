@@ -10,6 +10,8 @@
 <a href="https://www.youtube.com/cryptosingh"><img alt="YouTube" height="30px" width="30px" src="./icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saransh-kumar-2k19/"><img alt="LinkedIn" height="30px" width="30px" src="./icons/linkedin.svg"/></a>
 
+##
+
 ### Technologies and Tools:
 
 <div align="center">
@@ -27,8 +29,6 @@
 title="GitHub"/>
 <img alt="Intellij-Idea" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/>
 </div>
-
-##
 
 <div align="center">
 <img  alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs" title="Stats" />
