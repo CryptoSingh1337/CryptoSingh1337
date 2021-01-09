@@ -15,21 +15,21 @@
 ### Technologies and Tools:
 
 <div align="center">
-<img alt="Java" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/>
-<img alt="C++" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" title="C++"/>
-<img alt="C" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" title="C"/>
-<img alt="JavaScript" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" title="JavaScript"/>
-<img alt="HTML5" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" title="HTML5"/>
-<img alt="CSS3" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" title="CSS3"/>
-<img alt="JavaScript" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" title="Bootstrap"/>
-<img alt="SQLLite" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/sqlite.svg" title="SQL"/>
-<img alt="MongoDB" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" title="MongoDB"/>
-<img alt="Git" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" title="Git"/>
+<img alt="Java" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/>&nbsp;
+<img alt="C++" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" title="C++"/>&nbsp;
+<img alt="C" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" title="C"/>&nbsp;
+<img alt="JavaScript" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" title="JavaScript"/>&nbsp;
+<img alt="HTML5" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" title="HTML5"/>&nbsp;
+<img alt="CSS3" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" title="CSS3"/>&nbsp;
+<img alt="JavaScript" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" title="Bootstrap"/>&nbsp;
+<img alt="SQLLite" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/sqlite.svg" title="SQL"/>&nbsp;
+<img alt="MongoDB" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" title="MongoDB"/>&nbsp;
+<img alt="Git" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" title="Git"/>&nbsp;
 <img alt="GitHub" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" 
-title="GitHub"/>
-<img alt="Intellij-Idea" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/>
+title="GitHub"/>&nbsp;
+<img alt="Intellij-Idea" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/>&nbsp;
 </div>
-
+<br>
 <div align="center">
 <img  alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs" title="Stats" />
 </div>
