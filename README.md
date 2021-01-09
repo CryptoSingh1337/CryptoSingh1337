@@ -14,7 +14,7 @@
 ### Technologies and Tools:
 
 <div align="center">
-<img alt="Java" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/>
+<code><img alt="Java" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/></code>
 <img alt="C++" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" title="C++"/>
 <img alt="C" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" title="C"/>
 <img alt="JavaScript" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" title="JavaScript"/>
@@ -33,5 +33,4 @@ title="GitHub"/>
 
 <div align="center">
 <img  alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs" title="Stats" />
-<img  alt="CryptoSingh's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSingh1337&layout=compact&theme=radical" title="Top Language"/>
 </div>
