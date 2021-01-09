@@ -13,18 +13,20 @@
 
 ### Technologies and Tools:
 
-<img align="left" alt="Java" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/>
-<img align="left" alt="HTML5" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" title="HTML5"/>
-<img align="left" alt="CSS3" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" title="CSS3"/>
-<img align="left" alt="JavaScript" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" title="JavaScript"/>
-<img align="left" alt="C++" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" title="C++"/>
-<img align="left" alt="C" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" title="C"/>
-<img align="left" alt="SQL Lite" height="26px" width="26" src="https://github.com/tomchen/stack-icons/blob/master/logos/sqlite.svg" title="SQL"/>
-<img align="left" alt="SQL Lite" height="26px" width="26" src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" title="MongoDB"/>
-<img align="left" alt="Git" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" title="Git"/>
-<img align="left" alt="GitHub" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" 
+<div align="center">
+<img alt="Java" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/>
+<img alt="HTML5" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" title="HTML5"/>
+<img alt="CSS3" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" title="CSS3"/>
+<img alt="JavaScript" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" title="JavaScript"/>
+<img alt="C++" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" title="C++"/>
+<img alt="C" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" title="C"/>
+<img alt="SQL Lite" height="26px" width="26" src="https://github.com/tomchen/stack-icons/blob/master/logos/sqlite.svg" title="SQL"/>
+<img alt="SQL Lite" height="26px" width="26" src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" title="MongoDB"/>
+<img alt="Git" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" title="Git"/>
+<img alt="GitHub" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" 
 title="GitHub"/>
-<img align="left" alt="Intellij-Idea" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/>
+<img alt="Intellij-Idea" height="26px" width="26px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/>
+</div>
 
 ---
 
