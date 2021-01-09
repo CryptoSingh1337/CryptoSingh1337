@@ -7,7 +7,7 @@
 
 ##
 
-<a href="https://www.youtube.com/cryptosingh"><img alt="YouTube" height="30px" width="30px" src="./icons/youtube.svg"/></a>
+<a href="https://www.youtube.com/cryptosingh"><img alt="YouTube" height="30px" width="30px" src="./icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saransh-kumar-2k19/"><img alt="LinkedIn" height="30px" width="30px" src="./icons/linkedin.svg"/></a>
 
 ### Technologies and Tools:
