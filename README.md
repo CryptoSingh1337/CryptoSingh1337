@@ -5,11 +5,9 @@
 - 🌱 I’m currently learning Front end framework (ReactJS) and DSA.
 - ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games. 
 
-### Connect with me:
-
-<a href="https://cryptosingh1337.github.io/my-site/"><img alt="CryptoSingh" height="30px" width="33px" src="./icons/globe.svg"/></a>
+### Socials:
 <a href="https://www.youtube.com/cryptosingh"><img alt="YouTube" height="30px" width="30px" src="./icons/youtube.svg"/></a>
-<a href="https://www.linkedin.com/in/saransh-kumar-2k19/"><img alt="LinkedIn" height="30px" width="26px" src="./icons/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/saransh-kumar-2k19/"><img alt="LinkedIn" height="30px" width="30px" src="./icons/linkedin.svg"/></a>
 
 ### Technologies and Tools:
 
