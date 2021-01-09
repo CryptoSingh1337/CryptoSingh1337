@@ -28,7 +28,7 @@ title="GitHub"/>
 <img alt="Intellij-Idea" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/>
 </div>
 
----
+##
 
 <div align="center">
 <img  alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical&hide=issues,contribs" title="Stats" />
