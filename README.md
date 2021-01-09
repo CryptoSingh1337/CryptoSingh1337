@@ -14,7 +14,7 @@
 ### Technologies and Tools:
 
 <div align="center">
-<code><img alt="Java" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/></code>
+<code><img alt="Java" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/>
 <img alt="C++" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" title="C++"/>
 <img alt="C" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" title="C"/>
 <img alt="JavaScript" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" title="JavaScript"/>
@@ -26,7 +26,7 @@
 <img alt="Git" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" title="Git"/>
 <img alt="GitHub" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" 
 title="GitHub"/>
-<img alt="Intellij-Idea" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/>
+<img alt="Intellij-Idea" height="30px" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
 </div>
 
 ---
