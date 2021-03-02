@@ -1,9 +1,10 @@
 ### Hi there, I'm Saransh - aka CryptoSingh 👋
 
 ## I'm a Student and a Gamer!<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="right"/>
+
 - 🔭 I’m currently working on my problem solving skills and projects!
-- 🌱 I’m currently learning Front end framework (ReactJS) and DSA.
-- ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games. 
+- 🌱 I’m currently learning Back-end Development(Java) and DSA.
+- ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games.
 
 ##
 
