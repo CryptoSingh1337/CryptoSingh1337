@@ -8,8 +8,9 @@
 
 ##
 
-<a href="https://www.youtube.com/cryptosingh"><img alt="YouTube" height="30px" width="30px" src="./icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saransh-kumar-2k19/"><img alt="LinkedIn" height="30px" width="30px" src="./icons/linkedin.svg"/></a>
+<a href="https://cryptosingh1337.github.io/" target="_blank"><img alt="LinkedIn" height="30px" width="30px" src="./icons/world-wide-web.svg"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/cryptosingh" target="_blank"><img alt="YouTube" height="30px" width="30px" src="./icons/youtube.svg"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saransh-kumar-2k19/" target="_blank"><img alt="LinkedIn" height="30px" width="30px" src="./icons/linkedin.svg"/></a>
 
 ##
 
