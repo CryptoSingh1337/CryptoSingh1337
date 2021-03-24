@@ -30,6 +30,4 @@ title="GitHub"/></code>
 <code><img alt="Intellij-Idea" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
 </div>
 <br>
-<div align="center">
-<img  alt="CryptoSingh's Stats" src="https://github-readme-stats-cryptosingh1337.vercel.app/api?username=CryptoSingh1337&show_icons=true&theme=radical" title="Stats" />
-</div>
+<img  alt="CryptoSingh's Stats" src="https://github-readme-stats-cryptosingh1337.vercel.app/api?username=CryptoSingh1337&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats" />
