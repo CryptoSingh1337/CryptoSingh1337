@@ -46,7 +46,77 @@ title="GitHub"/></code>
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 308 Contributions in the Year 2021
+ > 
+> 📦 124.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
+🌆 Daytime    260 commits    ██████████░░░░░░░░░░░░░░░   40.88% 
+🌃 Evening    261 commits    ██████████░░░░░░░░░░░░░░░   41.04% 
+🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
+
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
+Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
+Wednesday    113 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
+Thursday     99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+Friday       63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+Saturday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+Sunday       102 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.04%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     11 repos            █████████░░░░░░░░░░░░░░░░   36.67% 
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/CryptoSingh1337/CryptoSingh1337/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
