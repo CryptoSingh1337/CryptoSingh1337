@@ -45,7 +45,6 @@ title="GitHub"/></code>
 5. 🗣 Commented on [#9526](https://github.com/checkstyle/checkstyle/issues/9526) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
-### ⚡ WakaTime
-
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
