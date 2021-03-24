@@ -20,14 +20,14 @@
 ### Technologies and Tools:
 
 <div align="center">
-<code><img alt="Java" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" title="Java"/></code>
-<code><img alt="HTML5" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" title="HTML5"/></code>
-<code><img alt="CSS3" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" title="CSS3"/></code>
-<code><img alt="JavaScript" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" title="Bootstrap"/></code>
-<code><img alt="Git" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" title="Git"/></code>
-<code><img alt="GitHub" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" 
+<code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/java.svg" title="Java"/></code>
+<code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
+<code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
+<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg" title="Bootstrap"/></code>
+<code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
+<code><img alt="GitHub" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/github-icon.svg" 
 title="GitHub"/></code>
-<code><img alt="Intellij-Idea" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
+<code><img alt="Intellij-Idea" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
 </div>
 <br>
 <div align="center">
@@ -46,41 +46,40 @@ title="GitHub"/></code>
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320716%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 308 Contributions in the Year 2021
- > 
-> 📦 124.7 kB Used in Github's Storage 
- > 
+>
+> 📦 124.7 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 40 Public Repositories
+>
+> 🔑 2 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
-🌆 Daytime    262 commits    ██████████░░░░░░░░░░░░░░░   41.07% 
-🌃 Evening    261 commits    ██████████░░░░░░░░░░░░░░░   40.91% 
+🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
+🌆 Daytime    262 commits    ██████████░░░░░░░░░░░░░░░   41.07%
+🌃 Evening    261 commits    ██████████░░░░░░░░░░░░░░░   40.91%
 🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
 ```
-
 
 <!--END_SECTION:waka-->
