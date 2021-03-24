@@ -46,40 +46,41 @@ title="GitHub"/></code>
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320716%20lines%20of%20code-blue)
 
-**🐱 My Github Data**
+**🐱 My Github Data** 
 
-> 🏆 308 Contributions in the Year 2021
->
-> 📦 124.7 kB Used in Github's Storage
->
+> 🏆 314 Contributions in the Year 2021
+ > 
+> 📦 124.8 kB Used in Github's Storage 
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 40 Public Repositories
->
-> 🔑 2 Private Repositories
->
-> **I'm a Night 🦉**
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
-🌆 Daytime    262 commits    ██████████░░░░░░░░░░░░░░░   41.07%
-🌃 Evening    261 commits    ██████████░░░░░░░░░░░░░░░   40.91%
-🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54%
+🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
+🌆 Daytime    263 commits    ██████████░░░░░░░░░░░░░░░   41.03% 
+🌃 Evening    263 commits    ██████████░░░░░░░░░░░░░░░   41.03% 
+🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
 ```
+
 
 <!--END_SECTION:waka-->
