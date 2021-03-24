@@ -1,6 +1,6 @@
 ### Hi there, I'm Saransh - aka CryptoSingh 👋
 
-<img align="center" alt="gif" src="https://github.com/cryptosingh1337/cryptosingh1337/blob/master/code.gif?raw=true" height="360px" width="640px">
+<img align="center" alt="gif" src="https://github.com/CryptoSingh1337/CryptoSingh1337/blob/master/icons/code.gif" height="360px" width="640px">
 
 ## I'm a Student and a Gamer!<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="right"/>
 
