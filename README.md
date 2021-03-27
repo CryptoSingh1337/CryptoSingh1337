@@ -38,48 +38,49 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9709](https://github.com/checkstyle/checkstyle/issues/9709) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🎉 Merged PR [#29](https://github.com/CryptoSingh1337/password-rack-web/pull/29) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
-3. 🎉 Merged PR [#30](https://github.com/CryptoSingh1337/password-rack-web/pull/30) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
-4. 🗣 Commented on [#9552](https://github.com/checkstyle/checkstyle/issues/9552) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#9548](https://github.com/checkstyle/checkstyle/issues/9548) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#9716](https://github.com/checkstyle/checkstyle/issues/9716) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🎉 Merged PR [#1](https://github.com/CryptoSingh1337/todolist-maven/pull/1) in [CryptoSingh1337/todolist-maven](https://github.com/CryptoSingh1337/todolist-maven)
+3. 🗣 Commented on [#9709](https://github.com/checkstyle/checkstyle/issues/9709) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#9721](https://github.com/checkstyle/checkstyle/pull/9721) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#9716](https://github.com/checkstyle/checkstyle/pull/9716) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-322428%20lines%20of%20code-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320716%20lines%20of%20code-blue)
+**🐱 My Github Data** 
 
-**🐱 My Github Data**
-
-> 🏆 308 Contributions in the Year 2021
->
-> 📦 124.7 kB Used in Github's Storage
->
+> 🏆 321 Contributions in the Year 2021
+ > 
+> 📦 133.3 kB Used in Github's Storage 
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 40 Public Repositories
->
-> 🔑 2 Private Repositories
->
-> **I'm a Night 🦉**
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
-🌆 Daytime    262 commits    ██████████░░░░░░░░░░░░░░░   41.07%
-🌃 Evening    261 commits    ██████████░░░░░░░░░░░░░░░   40.91%
-🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54%
+🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
+🌆 Daytime    266 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
+🌃 Evening    264 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
+🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
 ```
+
 
 <!--END_SECTION:waka-->
