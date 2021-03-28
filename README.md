@@ -38,11 +38,11 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9716](https://github.com/checkstyle/checkstyle/issues/9716) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🎉 Merged PR [#1](https://github.com/CryptoSingh1337/todolist-maven/pull/1) in [CryptoSingh1337/todolist-maven](https://github.com/CryptoSingh1337/todolist-maven)
-3. 🗣 Commented on [#9709](https://github.com/checkstyle/checkstyle/issues/9709) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 💪 Opened PR [#9721](https://github.com/checkstyle/checkstyle/pull/9721) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#9716](https://github.com/checkstyle/checkstyle/pull/9716) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#9709](https://github.com/checkstyle/checkstyle/issues/9709) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#9716](https://github.com/checkstyle/checkstyle/issues/9716) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🎉 Merged PR [#1](https://github.com/CryptoSingh1337/todolist-maven/pull/1) in [CryptoSingh1337/todolist-maven](https://github.com/CryptoSingh1337/todolist-maven)
+4. 🗣 Commented on [#9709](https://github.com/checkstyle/checkstyle/issues/9709) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#9721](https://github.com/checkstyle/checkstyle/pull/9721) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
