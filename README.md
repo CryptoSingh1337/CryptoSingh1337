@@ -39,10 +39,10 @@ title="GitHub"/></code>
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#9525](https://github.com/checkstyle/checkstyle/issues/9525) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 💪 Opened PR [#9825](https://github.com/checkstyle/checkstyle/pull/9825) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🎉 Merged PR [#32](https://github.com/CryptoSingh1337/password-rack-web/pull/32) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
-4. 💪 Opened PR [#9818](https://github.com/checkstyle/checkstyle/pull/9818) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#9511](https://github.com/checkstyle/checkstyle/issues/9511) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#9525](https://github.com/checkstyle/checkstyle/issues/9525) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#9825](https://github.com/checkstyle/checkstyle/pull/9825) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🎉 Merged PR [#32](https://github.com/CryptoSingh1337/password-rack-web/pull/32) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+5. 💪 Opened PR [#9818](https://github.com/checkstyle/checkstyle/pull/9818) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
