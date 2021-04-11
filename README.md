@@ -39,9 +39,9 @@ title="GitHub"/></code>
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#9429](https://github.com/checkstyle/checkstyle/issues/9429) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#9408](https://github.com/checkstyle/checkstyle/issues/9408) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#9429](https://github.com/checkstyle/checkstyle/issues/9429) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#9408](https://github.com/checkstyle/checkstyle/issues/9408) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 5. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
