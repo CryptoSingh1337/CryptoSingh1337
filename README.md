@@ -38,11 +38,11 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#9408](https://github.com/checkstyle/checkstyle/issues/9408) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 2. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#9850](https://github.com/checkstyle/checkstyle/pull/9850) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9442](https://github.com/checkstyle/checkstyle/issues/9442) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 💪 Opened PR [#9848](https://github.com/checkstyle/checkstyle/pull/9848) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#9850](https://github.com/checkstyle/checkstyle/pull/9850) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#9442](https://github.com/checkstyle/checkstyle/issues/9442) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
