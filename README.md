@@ -38,10 +38,10 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#9429](https://github.com/checkstyle/checkstyle/issues/9429) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9408](https://github.com/checkstyle/checkstyle/issues/9408) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 🗣 Commented on [#9860](https://github.com/checkstyle/checkstyle/issues/9860) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. ❗️ Opened issue [#9860](https://github.com/checkstyle/checkstyle/issues/9860) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#9859](https://github.com/checkstyle/checkstyle/pull/9859) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 💪 Opened PR [#9858](https://github.com/checkstyle/checkstyle/pull/9858) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 5. 🗣 Commented on [#9849](https://github.com/checkstyle/checkstyle/issues/9849) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
