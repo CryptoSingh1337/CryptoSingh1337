@@ -38,11 +38,11 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9871](https://github.com/checkstyle/checkstyle/pull/9871) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#9593](https://github.com/checkstyle/checkstyle/issues/9593) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 🗣 Commented on [#9428](https://github.com/checkstyle/checkstyle/issues/9428) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9454](https://github.com/checkstyle/checkstyle/issues/9454) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🗣 Commented on [#9457](https://github.com/checkstyle/checkstyle/issues/9457) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+1. 💪 Opened PR [#9872](https://github.com/checkstyle/checkstyle/pull/9872) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 💪 Opened PR [#9871](https://github.com/checkstyle/checkstyle/pull/9871) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 🗣 Commented on [#9593](https://github.com/checkstyle/checkstyle/issues/9593) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#9428](https://github.com/checkstyle/checkstyle/issues/9428) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 🗣 Commented on [#9454](https://github.com/checkstyle/checkstyle/issues/9454) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
