@@ -12,6 +12,7 @@
 
 <a href="https://cryptosingh1337.github.io/" target="_blank"><img alt="website" height="40px" width="40px" src="./icons/world-wide-web.svg"/></a>&nbsp;&nbsp;
 <a href="https://discord.gg/6efHuzv" target="_blank"><img alt="discord" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/></a>&nbsp;&nbsp;
+<a href="https://cryptosingh1337.medium.com/" target="_blank"><img alt="Medium" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/cryptosingh" target="_blank"><img alt="youtube" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saransh-kumar-2k19/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>
 
