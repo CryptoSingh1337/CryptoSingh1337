@@ -39,11 +39,11 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9923](https://github.com/checkstyle/checkstyle/pull/9923) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#9496](https://github.com/checkstyle/checkstyle/issues/9496) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#9906](https://github.com/checkstyle/checkstyle/pull/9906) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-4. 🗣 Commented on [#9498](https://github.com/checkstyle/checkstyle/issues/9498) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-5. 🎉 Merged PR [#18](https://github.com/CryptoSingh1337/minify-url-backend/pull/18) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
+1. 🗣 Commented on [#9474](https://github.com/checkstyle/checkstyle/issues/9474) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#9475](https://github.com/checkstyle/checkstyle/issues/9475) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+3. 💪 Opened PR [#9923](https://github.com/checkstyle/checkstyle/pull/9923) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+4. 🗣 Commented on [#9496](https://github.com/checkstyle/checkstyle/issues/9496) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+5. 💪 Opened PR [#9906](https://github.com/checkstyle/checkstyle/pull/9906) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
