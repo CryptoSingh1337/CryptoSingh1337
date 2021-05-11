@@ -39,11 +39,11 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/CryptoSingh1337/minify-url-backend/pull/24) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-2. 🎉 Merged PR [#23](https://github.com/CryptoSingh1337/minify-url-backend/pull/23) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-3. 🎉 Merged PR [#39](https://github.com/CryptoSingh1337/password-rack-web/pull/39) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
-4. 🎉 Merged PR [#22](https://github.com/CryptoSingh1337/minify-url-backend/pull/22) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-5. 🎉 Merged PR [#38](https://github.com/CryptoSingh1337/password-rack-web/pull/38) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+1. 🎉 Merged PR [#40](https://github.com/CryptoSingh1337/password-rack-web/pull/40) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+2. 🎉 Merged PR [#41](https://github.com/CryptoSingh1337/password-rack-web/pull/41) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+3. 🎉 Merged PR [#25](https://github.com/CryptoSingh1337/minify-url-backend/pull/25) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
+4. 🎉 Merged PR [#26](https://github.com/CryptoSingh1337/minify-url-backend/pull/26) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
+5. 🎉 Merged PR [#24](https://github.com/CryptoSingh1337/minify-url-backend/pull/24) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
