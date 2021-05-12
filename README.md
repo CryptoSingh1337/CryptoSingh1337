@@ -39,11 +39,11 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/CryptoSingh1337/debian-automation-scripts/issues/1) in [CryptoSingh1337/debian-automation-scripts](https://github.com/CryptoSingh1337/debian-automation-scripts)
-2. 🎉 Merged PR [#40](https://github.com/CryptoSingh1337/password-rack-web/pull/40) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
-3. 🎉 Merged PR [#41](https://github.com/CryptoSingh1337/password-rack-web/pull/41) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
-4. 🎉 Merged PR [#25](https://github.com/CryptoSingh1337/minify-url-backend/pull/25) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-5. 🎉 Merged PR [#26](https://github.com/CryptoSingh1337/minify-url-backend/pull/26) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
+1. ❗️ Opened issue [#2](https://github.com/CryptoSingh1337/debian-automation-scripts/issues/2) in [CryptoSingh1337/debian-automation-scripts](https://github.com/CryptoSingh1337/debian-automation-scripts)
+2. ❗️ Opened issue [#1](https://github.com/CryptoSingh1337/debian-automation-scripts/issues/1) in [CryptoSingh1337/debian-automation-scripts](https://github.com/CryptoSingh1337/debian-automation-scripts)
+3. 🎉 Merged PR [#40](https://github.com/CryptoSingh1337/password-rack-web/pull/40) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+4. 🎉 Merged PR [#41](https://github.com/CryptoSingh1337/password-rack-web/pull/41) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+5. 🎉 Merged PR [#25](https://github.com/CryptoSingh1337/minify-url-backend/pull/25) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
