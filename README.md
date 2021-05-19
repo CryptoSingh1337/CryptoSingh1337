@@ -39,11 +39,11 @@ title="GitHub"/></code>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#42](https://github.com/CryptoSingh1337/password-rack-web/pull/42) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
-2. 🎉 Merged PR [#27](https://github.com/CryptoSingh1337/minify-url-backend/pull/27) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-3. ❗️ Opened issue [#4](https://github.com/CryptoSingh1337/ubuntu-automation-scripts/issues/4) in [CryptoSingh1337/ubuntu-automation-scripts](https://github.com/CryptoSingh1337/ubuntu-automation-scripts)
-4. ❗️ Opened issue [#3](https://github.com/CryptoSingh1337/debian-automation-scripts/issues/3) in [CryptoSingh1337/debian-automation-scripts](https://github.com/CryptoSingh1337/debian-automation-scripts)
-5. ❗️ Opened issue [#2](https://github.com/CryptoSingh1337/debian-automation-scripts/issues/2) in [CryptoSingh1337/debian-automation-scripts](https://github.com/CryptoSingh1337/debian-automation-scripts)
+1. 🎉 Merged PR [#43](https://github.com/CryptoSingh1337/password-rack-web/pull/43) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+2. 🎉 Merged PR [#28](https://github.com/CryptoSingh1337/minify-url-backend/pull/28) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
+3. 🎉 Merged PR [#42](https://github.com/CryptoSingh1337/password-rack-web/pull/42) in [CryptoSingh1337/password-rack-web](https://github.com/CryptoSingh1337/password-rack-web)
+4. 🎉 Merged PR [#27](https://github.com/CryptoSingh1337/minify-url-backend/pull/27) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
+5. ❗️ Opened issue [#4](https://github.com/CryptoSingh1337/ubuntu-automation-scripts/issues/4) in [CryptoSingh1337/ubuntu-automation-scripts](https://github.com/CryptoSingh1337/ubuntu-automation-scripts)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
