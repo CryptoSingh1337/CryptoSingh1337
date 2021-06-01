@@ -19,6 +19,6 @@ jobs:
           SHOW_DAYS_OF_WEEK: false
           SHOW_OS: true
           SHOW_PROJECTS: false
-          SHOW_TIMEZONE: false
+          SHOW_TIMEZONE: true
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_LOC_CHART: false
