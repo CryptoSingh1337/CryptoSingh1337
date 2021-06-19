@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align="center">
-<img  alt="CryptoSingh's Stats" src="https://github-readme-stats-cryptosingh1337.vercel.app/api?username=CryptoSingh1337&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
+<img  alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
 </div>
 
 ### ⚡ Recent GitHub Activity
@@ -47,55 +47,55 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-345895%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 649 Contributions in the Year 2021
- > 
-> 📦 196.6 kB Used in Github's Storage 
- > 
+>
+> 📦 196.6 kB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 30 Public Repositories
+>
+> 🔑 10 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
-🌆 Daytime    345 commits    ██████████░░░░░░░░░░░░░░░   42.91% 
-🌃 Evening    312 commits    █████████░░░░░░░░░░░░░░░░   38.81% 
+🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45%
+🌆 Daytime    345 commits    ██████████░░░░░░░░░░░░░░░   42.91%
+🌃 Evening    312 commits    █████████░░░░░░░░░░░░░░░░   38.81%
 🌙 Night      71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.83%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Java                     16 hrs 17 mins      ███████████████░░░░░░░░░░   62.36% 
-HTML                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
-Properties               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.31% 
-JavaScript               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+💬 Programming Languages:
+Java                     16 hrs 17 mins      ███████████████░░░░░░░░░░   62.36%
+HTML                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.62%
+Properties               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.31%
+JavaScript               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.11%
 XML                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
 
-🔥 Editors: 
-IntelliJ                 21 hrs 31 mins      ████████████████████░░░░░   82.43% 
-VS Code                  3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
-Sublime Text             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+🔥 Editors:
+IntelliJ                 21 hrs 31 mins      ████████████████████░░░░░   82.43%
+VS Code                  3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76%
+Sublime Text             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 DBeaver                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
 
-💻 Operating System: 
-Windows                  24 hrs 58 mins      ████████████████████████░   95.62% 
+💻 Operating System:
+Windows                  24 hrs 58 mins      ████████████████████████░   95.62%
 Linux                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
 
 ```
 
+Last Updated on 19/06/2021
 
- Last Updated on 19/06/2021
 <!--END_SECTION:waka-->
