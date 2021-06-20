@@ -11,10 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-        uses: actions/checkout@v2.3.4
-
-    - name: Add activity to readme
+      - uses: actions/checkout@v2.3.4
       - uses: Readme-Workflows/recent-activity@v2.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
