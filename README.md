@@ -37,14 +37,7 @@
 
 ### ⚡ Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-
-1. ❗️ Opened issue [#4](https://github.com/CryptoSingh1337/ubuntu-automation-scripts/issues/4) in [CryptoSingh1337/ubuntu-automation-scripts](https://github.com/CryptoSingh1337/ubuntu-automation-scripts)
-2. 🎉 Merged PR [#31](https://github.com/CryptoSingh1337/minify-url-backend/pull/31) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-3. 🎉 Merged PR [#30](https://github.com/CryptoSingh1337/minify-url-backend/pull/30) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-4. 🎉 Merged PR [#29](https://github.com/CryptoSingh1337/minify-url-backend/pull/29) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-5. 🎉 Merged PR [#28](https://github.com/CryptoSingh1337/minify-url-backend/pull/28) in [CryptoSingh1337/minify-url-backend](https://github.com/CryptoSingh1337/minify-url-backend)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 <!--START_SECTION:waka-->
 
