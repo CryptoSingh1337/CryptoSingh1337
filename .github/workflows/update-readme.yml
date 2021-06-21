@@ -19,7 +19,7 @@ jobs:
           CONFIG_FILE: './.github/workflows/update-readme.yml'
           settings:
             disabled_events:
-            - "comments"
-            - "create_repo"
-            - "fork"
-            - "wiki"
+              - "comments"
+              - "create_repo"
+              - "fork"
+              - "wiki"
