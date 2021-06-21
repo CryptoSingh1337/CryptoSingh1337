@@ -37,7 +37,7 @@
 
 ### ⚡ Recent GitHub Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 
 <!--START_SECTION:waka-->
