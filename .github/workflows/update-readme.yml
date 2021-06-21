@@ -17,3 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: './.github/workflows/update-readme.yml'
+          settings:
+            disabled_events: ["create_repo", "wiki", "comments", "fork"]
