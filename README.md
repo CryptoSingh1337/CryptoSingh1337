@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/CryptoSingh1337/Notepad/pull/2) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-2. ✌️ Released [Basic Functionality](https://github.com/CryptoSingh1337/Notepad/releases/tag/1.0) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-3. ⭐ Starred [CryptoSingh1337/undervolt](https://github.com/CryptoSingh1337/undervolt)
-4. 🔱 Forked [CryptoSingh1337/recent-activity](https://github.com/CryptoSingh1337/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ⭐ Starred [CryptoSingh1337/posts-management](https://github.com/CryptoSingh1337/posts-management)
+1. ✌️ Released [Notepad v2.0 - Enhanced](https://github.com/CryptoSingh1337/Notepad/releases/tag/2.0) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+2. 🎉 Merged PR [#2](https://github.com/CryptoSingh1337/Notepad/pull/2) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+3. ✌️ Released [Basic Functionality](https://github.com/CryptoSingh1337/Notepad/releases/tag/1.0) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+4. ⭐ Starred [CryptoSingh1337/undervolt](https://github.com/CryptoSingh1337/undervolt)
+5. 🔱 Forked [CryptoSingh1337/recent-activity](https://github.com/CryptoSingh1337/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 
