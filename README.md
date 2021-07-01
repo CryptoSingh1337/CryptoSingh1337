@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-2. 🎉 Merged PR [#4](https://github.com/CryptoSingh1337/Notepad/pull/4) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-3. 🎉 Merged PR [#3](https://github.com/CryptoSingh1337/Notepad/pull/3) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-4. ✌️ Released [Notepad v2.0 - Enhanced](https://github.com/CryptoSingh1337/Notepad/releases/tag/2.0) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-5. 🎉 Merged PR [#2](https://github.com/CryptoSingh1337/Notepad/pull/2) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+1. ⭐ Starred [google/google-java-format](https://github.com/google/google-java-format)
+2. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+3. 🎉 Merged PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+4. 🎉 Merged PR [#4](https://github.com/CryptoSingh1337/Notepad/pull/4) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+5. 🎉 Merged PR [#3](https://github.com/CryptoSingh1337/Notepad/pull/3) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
 <!--RECENT_ACTIVITY:end-->
 
 
