@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#39](https://github.com/CryptoSingh1337/spring-recipe-app/issues/39) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-2. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/spring-recipe-app/issues/38) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-3. ⭐ Starred [google/google-java-format](https://github.com/google/google-java-format)
-4. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-5. 🎉 Merged PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+1. ✔️ Closed issue [#39](https://github.com/CryptoSingh1337/spring-recipe-app/issues/39) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+2. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/spring-recipe-app/issues/38) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+3. ❗️ Opened issue [#39](https://github.com/CryptoSingh1337/spring-recipe-app/issues/39) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+4. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/spring-recipe-app/issues/38) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+5. ⭐ Starred [google/google-java-format](https://github.com/google/google-java-format)
 <!--RECENT_ACTIVITY:end-->
 
 
