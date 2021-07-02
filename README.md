@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google/google-java-format](https://github.com/google/google-java-format)
-2. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-3. 🎉 Merged PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-4. 🎉 Merged PR [#4](https://github.com/CryptoSingh1337/Notepad/pull/4) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-5. 🎉 Merged PR [#3](https://github.com/CryptoSingh1337/Notepad/pull/3) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+1. ❗️ Opened issue [#39](https://github.com/CryptoSingh1337/spring-recipe-app/issues/39) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+2. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/spring-recipe-app/issues/38) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+3. ⭐ Starred [google/google-java-format](https://github.com/google/google-java-format)
+4. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+5. 🎉 Merged PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
 <!--RECENT_ACTIVITY:end-->
 
 
