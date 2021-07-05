@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Cosium/git-code-format-maven-plugin](https://github.com/Cosium/git-code-format-maven-plugin)
-2. 💪 Opened PR [#50](https://github.com/CryptoSingh1337/spring-recipe-app/pull/50) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-3. ✔️ Closed issue [#49](https://github.com/CryptoSingh1337/spring-recipe-app/issues/49) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-4. ❗️ Opened issue [#49](https://github.com/CryptoSingh1337/spring-recipe-app/issues/49) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-5. ❗️ Opened issue [#48](https://github.com/CryptoSingh1337/spring-recipe-app/issues/48) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+1. ✔️ Closed issue [#51](https://github.com/CryptoSingh1337/spring-recipe-app/issues/51) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+2. ❗️ Opened issue [#51](https://github.com/CryptoSingh1337/spring-recipe-app/issues/51) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+3. ⭐ Starred [Cosium/git-code-format-maven-plugin](https://github.com/Cosium/git-code-format-maven-plugin)
+4. 💪 Opened PR [#50](https://github.com/CryptoSingh1337/spring-recipe-app/pull/50) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+5. ✔️ Closed issue [#49](https://github.com/CryptoSingh1337/spring-recipe-app/issues/49) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
 <!--RECENT_ACTIVITY:end-->
 
 
