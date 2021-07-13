@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [speedment/jpa-streamer](https://github.com/speedment/jpa-streamer)
-2. ✔️ Closed issue [#58](https://github.com/CryptoSingh1337/spring-recipe-app/issues/58) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-3. ❗️ Opened issue [#58](https://github.com/CryptoSingh1337/spring-recipe-app/issues/58) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-4. ⭐ Starred [amand33p/reddish](https://github.com/amand33p/reddish)
-5. ✔️ Closed issue [#57](https://github.com/CryptoSingh1337/spring-recipe-app/issues/57) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+1. ✔️ Closed issue [#60](https://github.com/CryptoSingh1337/spring-recipe-app/issues/60) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+2. ❗️ Opened issue [#60](https://github.com/CryptoSingh1337/spring-recipe-app/issues/60) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+3. ✔️ Closed issue [#59](https://github.com/CryptoSingh1337/spring-recipe-app/issues/59) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+4. ❗️ Opened issue [#59](https://github.com/CryptoSingh1337/spring-recipe-app/issues/59) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+5. ⭐ Starred [speedment/jpa-streamer](https://github.com/speedment/jpa-streamer)
 <!--RECENT_ACTIVITY:end-->
 
 
