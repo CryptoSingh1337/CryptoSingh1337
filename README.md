@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#10](https://github.com/CryptoSingh1337/mssc-brewery/issues/10) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
-2. ❗️ Opened issue [#10](https://github.com/CryptoSingh1337/mssc-brewery/issues/10) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
-3. ✔️ Closed issue [#9](https://github.com/CryptoSingh1337/mssc-brewery/issues/9) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
-4. ❗️ Opened issue [#9](https://github.com/CryptoSingh1337/mssc-brewery/issues/9) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
-5. ✔️ Closed issue [#8](https://github.com/CryptoSingh1337/mssc-brewery/issues/8) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+1. ✔️ Closed issue [#11](https://github.com/CryptoSingh1337/mssc-brewery/issues/11) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+2. ❗️ Opened issue [#11](https://github.com/CryptoSingh1337/mssc-brewery/issues/11) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+3. ✔️ Closed issue [#10](https://github.com/CryptoSingh1337/mssc-brewery/issues/10) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+4. ❗️ Opened issue [#10](https://github.com/CryptoSingh1337/mssc-brewery/issues/10) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+5. ✔️ Closed issue [#9](https://github.com/CryptoSingh1337/mssc-brewery/issues/9) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
 <!--RECENT_ACTIVITY:end-->
 
 
