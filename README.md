@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
-2. ✔️ Closed issue [#68](https://github.com/CryptoSingh1337/spring-recipe-app/issues/68) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-3. ❗️ Opened issue [#68](https://github.com/CryptoSingh1337/spring-recipe-app/issues/68) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-4. ✔️ Closed issue [#67](https://github.com/CryptoSingh1337/spring-recipe-app/issues/67) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-5. ❗️ Opened issue [#67](https://github.com/CryptoSingh1337/spring-recipe-app/issues/67) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+1. ⭐ Starred [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+2. ✔️ Closed issue [#1](https://github.com/CryptoSingh1337/mssc-brewery/issues/1) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+3. ❗️ Opened issue [#1](https://github.com/CryptoSingh1337/mssc-brewery/issues/1) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+4. 📔 Created new repository [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+5. ✔️ Closed issue [#68](https://github.com/CryptoSingh1337/spring-recipe-app/issues/68) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
 <!--RECENT_ACTIVITY:end-->
 
 
