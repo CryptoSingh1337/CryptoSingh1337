@@ -42,7 +42,7 @@
 2. ✔️ Closed issue [#1](https://github.com/CryptoSingh1337/mssc-beer-service/issues/1) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
 3. ❗️ Opened issue [#1](https://github.com/CryptoSingh1337/mssc-beer-service/issues/1) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
 4. 📔 Created new repository [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-5. ✔️ Closed issue [#11](https://github.com/CryptoSingh1337/mssc-brewery/issues/11) in [CryptoSingh1337/mssc-brewery](https://github.com/CryptoSingh1337/mssc-brewery)
+5. ✔️ Closed issue [#68](https://github.com/CryptoSingh1337/spring-recipe-app/issues/68) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
 <!--RECENT_ACTIVITY:end-->
 
 
