@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#11](https://github.com/CryptoSingh1337/spring-blog-api/issues/11) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-2. ❗️ Opened issue [#11](https://github.com/CryptoSingh1337/spring-blog-api/issues/11) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-3. ✔️ Closed issue [#10](https://github.com/CryptoSingh1337/spring-blog-api/issues/10) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-4. ✔️ Closed issue [#9](https://github.com/CryptoSingh1337/spring-blog-api/issues/9) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-5. ✔️ Closed issue [#8](https://github.com/CryptoSingh1337/spring-blog-api/issues/8) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+1. ⭐ Starred [lregnier/faunadb-demo-app-java](https://github.com/lregnier/faunadb-demo-app-java)
+2. ✔️ Closed issue [#11](https://github.com/CryptoSingh1337/spring-blog-api/issues/11) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+3. ❗️ Opened issue [#11](https://github.com/CryptoSingh1337/spring-blog-api/issues/11) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+4. ✔️ Closed issue [#10](https://github.com/CryptoSingh1337/spring-blog-api/issues/10) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+5. ✔️ Closed issue [#9](https://github.com/CryptoSingh1337/spring-blog-api/issues/9) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
 <!--RECENT_ACTIVITY:end-->
 
 
