@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor)
-2. ✔️ Closed issue [#37](https://github.com/CryptoSingh1337/spring-blog-api/issues/37) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-3. ❗️ Opened issue [#37](https://github.com/CryptoSingh1337/spring-blog-api/issues/37) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-4. ✔️ Closed issue [#36](https://github.com/CryptoSingh1337/spring-blog-api/issues/36) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-5. ❗️ Opened issue [#36](https://github.com/CryptoSingh1337/spring-blog-api/issues/36) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+1. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/spring-blog-api/issues/38) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+2. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/spring-blog-api/issues/38) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+3. ⭐ Starred [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor)
+4. ✔️ Closed issue [#37](https://github.com/CryptoSingh1337/spring-blog-api/issues/37) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+5. ❗️ Opened issue [#37](https://github.com/CryptoSingh1337/spring-blog-api/issues/37) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
 <!--RECENT_ACTIVITY:end-->
 
 
