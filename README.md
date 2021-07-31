@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#51](https://github.com/CryptoSingh1337/spring-blog-api/issues/51) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-2. ✔️ Closed issue [#44](https://github.com/CryptoSingh1337/spring-blog-api/issues/44) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-3. ✔️ Closed issue [#49](https://github.com/CryptoSingh1337/spring-blog-api/issues/49) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-4. ✔️ Closed issue [#50](https://github.com/CryptoSingh1337/spring-blog-api/issues/50) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-5. ❗️ Opened issue [#50](https://github.com/CryptoSingh1337/spring-blog-api/issues/50) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+1. ✔️ Closed issue [#52](https://github.com/CryptoSingh1337/spring-blog-api/issues/52) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+2. ❗️ Opened issue [#52](https://github.com/CryptoSingh1337/spring-blog-api/issues/52) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+3. ✔️ Closed issue [#51](https://github.com/CryptoSingh1337/spring-blog-api/issues/51) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+4. ❗️ Opened issue [#51](https://github.com/CryptoSingh1337/spring-blog-api/issues/51) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+5. ✔️ Closed issue [#44](https://github.com/CryptoSingh1337/spring-blog-api/issues/44) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
 <!--RECENT_ACTIVITY:end-->
 
 
