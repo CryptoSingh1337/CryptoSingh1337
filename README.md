@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CryptoSingh1337/vue-quiz-app](https://github.com/CryptoSingh1337/vue-quiz-app)
-2. 📔 Created new repository [CryptoSingh1337/vue-quiz-app](https://github.com/CryptoSingh1337/vue-quiz-app)
-3. ⭐ Starred [CryptoSingh1337/task-tracker](https://github.com/CryptoSingh1337/task-tracker)
-4. 📔 Created new repository [CryptoSingh1337/task-tracker](https://github.com/CryptoSingh1337/task-tracker)
-5. ✔️ Closed issue [#15](https://github.com/CryptoSingh1337/mssc-beer-service/issues/15) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+1. ✔️ Closed issue [#48](https://github.com/CryptoSingh1337/spring-recipe-app/issues/48) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+2. 🎉 Merged PR [#50](https://github.com/CryptoSingh1337/spring-recipe-app/pull/50) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
+3. ⭐ Starred [CryptoSingh1337/vue-quiz-app](https://github.com/CryptoSingh1337/vue-quiz-app)
+4. 📔 Created new repository [CryptoSingh1337/vue-quiz-app](https://github.com/CryptoSingh1337/vue-quiz-app)
+5. ⭐ Starred [CryptoSingh1337/task-tracker](https://github.com/CryptoSingh1337/task-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 
