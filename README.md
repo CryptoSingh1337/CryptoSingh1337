@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#18](https://github.com/CryptoSingh1337/mssc-beer-service/issues/18) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-2. ✔️ Closed issue [#17](https://github.com/CryptoSingh1337/mssc-beer-service/issues/17) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-3. ❗️ Opened issue [#17](https://github.com/CryptoSingh1337/mssc-beer-service/issues/17) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-4. ✔️ Closed issue [#16](https://github.com/CryptoSingh1337/mssc-beer-service/issues/16) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-5. ❗️ Opened issue [#16](https://github.com/CryptoSingh1337/mssc-beer-service/issues/16) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+1. ❗️ Opened issue [#20](https://github.com/CryptoSingh1337/mssc-beer-service/issues/20) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+2. ✔️ Closed issue [#19](https://github.com/CryptoSingh1337/mssc-beer-service/issues/19) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+3. ❗️ Opened issue [#19](https://github.com/CryptoSingh1337/mssc-beer-service/issues/19) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+4. ✔️ Closed issue [#18](https://github.com/CryptoSingh1337/mssc-beer-service/issues/18) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+5. ❗️ Opened issue [#18](https://github.com/CryptoSingh1337/mssc-beer-service/issues/18) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
 <!--RECENT_ACTIVITY:end-->
 
 
