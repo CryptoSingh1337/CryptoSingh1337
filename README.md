@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#16](https://github.com/CryptoSingh1337/mssc-beer-service/issues/16) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-2. ✔️ Closed issue [#48](https://github.com/CryptoSingh1337/spring-recipe-app/issues/48) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-3. 🎉 Merged PR [#50](https://github.com/CryptoSingh1337/spring-recipe-app/pull/50) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-4. ⭐ Starred [CryptoSingh1337/vue-quiz-app](https://github.com/CryptoSingh1337/vue-quiz-app)
-5. 📔 Created new repository [CryptoSingh1337/vue-quiz-app](https://github.com/CryptoSingh1337/vue-quiz-app)
+1. ❗️ Opened issue [#18](https://github.com/CryptoSingh1337/mssc-beer-service/issues/18) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+2. ✔️ Closed issue [#17](https://github.com/CryptoSingh1337/mssc-beer-service/issues/17) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+3. ❗️ Opened issue [#17](https://github.com/CryptoSingh1337/mssc-beer-service/issues/17) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+4. ✔️ Closed issue [#16](https://github.com/CryptoSingh1337/mssc-beer-service/issues/16) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+5. ❗️ Opened issue [#16](https://github.com/CryptoSingh1337/mssc-beer-service/issues/16) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
 <!--RECENT_ACTIVITY:end-->
 
 
