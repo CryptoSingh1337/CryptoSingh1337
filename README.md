@@ -38,11 +38,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Adibros/bloged](https://github.com/Adibros/bloged)
-2. ✔️ Closed issue [#79](https://github.com/CryptoSingh1337/spring-blog-api/issues/79) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-3. ❗️ Opened issue [#79](https://github.com/CryptoSingh1337/spring-blog-api/issues/79) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-4. 📔 Created new repository [CryptoSingh1337/spring-microservices-config](https://github.com/CryptoSingh1337/spring-microservices-config)
-5. ✔️ Closed issue [#78](https://github.com/CryptoSingh1337/spring-blog-api/issues/78) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+1. 📔 Created new repository [CryptoSingh1337/saransh-kumar](https://github.com/CryptoSingh1337/saransh-kumar)
+2. ⭐ Starred [Adibros/bloged](https://github.com/Adibros/bloged)
+3. ✔️ Closed issue [#79](https://github.com/CryptoSingh1337/spring-blog-api/issues/79) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+4. ❗️ Opened issue [#79](https://github.com/CryptoSingh1337/spring-blog-api/issues/79) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
+5. 📔 Created new repository [CryptoSingh1337/spring-microservices-config](https://github.com/CryptoSingh1337/spring-microservices-config)
 <!--RECENT_ACTIVITY:end-->
 
 
