@@ -22,11 +22,13 @@
 
 <div align="center">
 <code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/java.svg" title="Java"/></code>
-<code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/spring.svg" title="Spring"/></code>
-<code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/hibernate.svg" title="Hibernate"/></code>
+<code><img alt="Spring" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/spring.svg" title="Spring"/></code>
+<code><img alt="Hibernate" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/hibernate.svg" title="Hibernate"/></code>
+<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
+<code><img alt="Vue 3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue 3"/></code>
 <code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
 <code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
-<code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg" title="Bootstrap"/></code>
+<code><img alt="Bootstrap" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg" title="Bootstrap"/></code>
 <code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
 <code><img alt="Intellij-Idea" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
 </div>
@@ -47,53 +49,53 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-427582%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 1,111 Contributions in the Year 2021
- > 
-> 📦 200.5 kB Used in Github's Storage 
- > 
+>
+> 📦 200.5 kB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 37 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 37 Public Repositories
+>
+> 🔑 8 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-🌆 Daytime    384 commits    ██████████░░░░░░░░░░░░░░░   40.94% 
-🌃 Evening    359 commits    █████████░░░░░░░░░░░░░░░░   38.27% 
+🌞 Morning    127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.54%
+🌆 Daytime    384 commits    ██████████░░░░░░░░░░░░░░░   40.94%
+🌃 Evening    359 commits    █████████░░░░░░░░░░░░░░░░   38.27%
 🌙 Night      68 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Vue.js                   18 hrs 56 mins      █████████████░░░░░░░░░░░░   52.43% 
-Java                     8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   23.21% 
-CSS                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+💬 Programming Languages:
+Vue.js                   18 hrs 56 mins      █████████████░░░░░░░░░░░░   52.43%
+Java                     8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   23.21%
+CSS                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
+JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 HTML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
 
-🔥 Editors: 
-VS Code                  26 hrs 55 mins      ██████████████████░░░░░░░   74.54% 
-Sublime Text             5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+🔥 Editors:
+VS Code                  26 hrs 55 mins      ██████████████████░░░░░░░   74.54%
+Sublime Text             5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93%
 IntelliJ                 3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.53%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  36 hrs 7 mins       █████████████████████████   100.0%
 
 ```
 
+Last Updated on 04/09/2021
 
- Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
