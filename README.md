@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [CryptoSingh1337/saransh-kumar](https://github.com/CryptoSingh1337/saransh-kumar)
-2. ⭐ Starred [Adibros/bloged](https://github.com/Adibros/bloged)
-3. ✔️ Closed issue [#79](https://github.com/CryptoSingh1337/spring-blog-api/issues/79) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-4. ❗️ Opened issue [#79](https://github.com/CryptoSingh1337/spring-blog-api/issues/79) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
-5. 📔 Created new repository [CryptoSingh1337/spring-microservices-config](https://github.com/CryptoSingh1337/spring-microservices-config)
+1. ✔️ Closed issue [#21](https://github.com/CryptoSingh1337/mssc-beer-service/issues/21) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+2. ❗️ Opened issue [#21](https://github.com/CryptoSingh1337/mssc-beer-service/issues/21) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+3. 📔 Created new repository [CryptoSingh1337/saransh-kumar](https://github.com/CryptoSingh1337/saransh-kumar)
+4. ⭐ Starred [Adibros/bloged](https://github.com/Adibros/bloged)
+5. ✔️ Closed issue [#79](https://github.com/CryptoSingh1337/spring-blog-api/issues/79) in [CryptoSingh1337/spring-blog-api](https://github.com/CryptoSingh1337/spring-blog-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
