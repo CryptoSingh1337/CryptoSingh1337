@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
-2. 📔 Created new repository [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
-3. ✔️ Closed issue [#21](https://github.com/CryptoSingh1337/mssc-beer-service/issues/21) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-4. ❗️ Opened issue [#21](https://github.com/CryptoSingh1337/mssc-beer-service/issues/21) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
-5. 📔 Created new repository [CryptoSingh1337/saransh-kumar](https://github.com/CryptoSingh1337/saransh-kumar)
+1. ⭐ Starred [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe)
+2. ⭐ Starred [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
+3. 📔 Created new repository [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
+4. ✔️ Closed issue [#21](https://github.com/CryptoSingh1337/mssc-beer-service/issues/21) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+5. ❗️ Opened issue [#21](https://github.com/CryptoSingh1337/mssc-beer-service/issues/21) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
