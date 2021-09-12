@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [CryptoSingh1337/spring-microservices](https://github.com/CryptoSingh1337/spring-microservices)
-2. ⭐ Starred [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe)
-3. ⭐ Starred [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
-4. 📔 Created new repository [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
-5. ✔️ Closed issue [#21](https://github.com/CryptoSingh1337/mssc-beer-service/issues/21) in [CryptoSingh1337/mssc-beer-service](https://github.com/CryptoSingh1337/mssc-beer-service)
+1. 🔱 Forked [CryptoSingh1337/winter-of-contributing](https://github.com/CryptoSingh1337/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. ⭐ Starred [CryptoSingh1337/spring-microservices](https://github.com/CryptoSingh1337/spring-microservices)
+3. ⭐ Starred [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe)
+4. ⭐ Starred [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
+5. 📔 Created new repository [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
