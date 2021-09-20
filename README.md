@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [CryptoSingh1337/winter-of-contributing](https://github.com/CryptoSingh1337/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. ⭐ Starred [CryptoSingh1337/spring-microservices](https://github.com/CryptoSingh1337/spring-microservices)
-3. ⭐ Starred [linuxhw/hw-probe](https://github.com/linuxhw/hw-probe)
-4. ⭐ Starred [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
-5. 📔 Created new repository [CryptoSingh1337/spring-jwt-auth](https://github.com/CryptoSingh1337/spring-jwt-auth)
+1. ⭐ Starred [CryptoSingh1337/youtube-clone-frontend](https://github.com/CryptoSingh1337/youtube-clone-frontend)
+2. ⭐ Starred [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+3. 📔 Created new repository [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+4. 📔 Created new repository [CryptoSingh1337/youtube-clone-frontend](https://github.com/CryptoSingh1337/youtube-clone-frontend)
+5. 🔱 Forked [CryptoSingh1337/winter-of-contributing](https://github.com/CryptoSingh1337/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
