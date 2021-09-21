@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#69](https://github.com/CryptoSingh1337/spring-recipe-app/issues/69) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-2. ❗️ Opened issue [#69](https://github.com/CryptoSingh1337/spring-recipe-app/issues/69) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
-3. ⭐ Starred [CryptoSingh1337/youtube-clone-frontend](https://github.com/CryptoSingh1337/youtube-clone-frontend)
-4. ⭐ Starred [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
-5. 📔 Created new repository [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+1. ⭐ Starred [CryptoSingh1337/youtube-clone-config-server](https://github.com/CryptoSingh1337/youtube-clone-config-server)
+2. ✔️ Closed issue [#1](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/1) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+3. 📔 Created new repository [CryptoSingh1337/youtube-clone-config-server](https://github.com/CryptoSingh1337/youtube-clone-config-server)
+4. ❗️ Opened issue [#1](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/1) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+5. ✔️ Closed issue [#69](https://github.com/CryptoSingh1337/spring-recipe-app/issues/69) in [CryptoSingh1337/spring-recipe-app](https://github.com/CryptoSingh1337/spring-recipe-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
