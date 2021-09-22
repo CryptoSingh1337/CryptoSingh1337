@@ -47,10 +47,10 @@
 <!--RECENT_ACTIVITY:start-->
 
 1. 🔱 Forked [CryptoSingh1337/winter-of-contributing](https://github.com/CryptoSingh1337/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. ⭐ Starred [CryptoSingh1337/youtube-clone-config-server](https://github.com/CryptoSingh1337/youtube-clone-config-server)
-3. ✔️ Closed issue [#1](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/1) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
-4. 📔 Created new repository [CryptoSingh1337/youtube-clone-config-server](https://github.com/CryptoSingh1337/youtube-clone-config-server)
-5. ❗️ Opened issue [#1](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/1) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+2. 🔱 Forked [CryptoSingh1337/winter-of-contributing](https://github.com/CryptoSingh1337/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. ⭐ Starred [CryptoSingh1337/youtube-clone-config-server](https://github.com/CryptoSingh1337/youtube-clone-config-server)
+4. ✔️ Closed issue [#1](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/1) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+5. 📔 Created new repository [CryptoSingh1337/youtube-clone-config-server](https://github.com/CryptoSingh1337/youtube-clone-config-server)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
