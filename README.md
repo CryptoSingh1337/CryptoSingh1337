@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#3](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/3) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
-2. ✔️ Closed issue [#2](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/2) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
-3. ❗️ Opened issue [#3](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/3) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
-4. ❗️ Opened issue [#2](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/2) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
-5. 🔱 Forked [CryptoSingh1337/winter-of-contributing](https://github.com/CryptoSingh1337/winter-of-contributing) from [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. ⭐ Starred [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+2. ⭐ Starred [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
+3. ⭐ Starred [vuejs/vue](https://github.com/vuejs/vue)
+4. ⭐ Starred [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+5. ✔️ Closed issue [#3](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/3) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
