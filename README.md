@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-2. ⭐ Starred [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
-3. ⭐ Starred [vuejs/vue](https://github.com/vuejs/vue)
-4. ⭐ Starred [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-5. ✔️ Closed issue [#3](https://github.com/CryptoSingh1337/youtube-clone-backend/issues/3) in [CryptoSingh1337/youtube-clone-backend](https://github.com/CryptoSingh1337/youtube-clone-backend)
+1. ❗️ Opened issue [#10](https://github.com/CryptoSingh1337/vidflow-client/issues/10) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+2. ❗️ Opened issue [#9](https://github.com/CryptoSingh1337/vidflow-client/issues/9) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+3. ❗️ Opened issue [#8](https://github.com/CryptoSingh1337/vidflow-client/issues/8) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+4. ❗️ Opened issue [#7](https://github.com/CryptoSingh1337/vidflow-client/issues/7) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+5. ❗️ Opened issue [#6](https://github.com/CryptoSingh1337/vidflow-client/issues/6) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
