@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#8](https://github.com/CryptoSingh1337/vidflow-backend/issues/8) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-2. ✔️ Closed issue [#7](https://github.com/CryptoSingh1337/vidflow-backend/issues/7) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-3. ✔️ Closed issue [#6](https://github.com/CryptoSingh1337/vidflow-backend/issues/6) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-4. ✔️ Closed issue [#9](https://github.com/CryptoSingh1337/vidflow-backend/issues/9) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-5. ✔️ Closed issue [#5](https://github.com/CryptoSingh1337/vidflow-backend/issues/5) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. ✔️ Closed issue [#10](https://github.com/CryptoSingh1337/vidflow-backend/issues/10) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+2. ❗️ Opened issue [#10](https://github.com/CryptoSingh1337/vidflow-backend/issues/10) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+3. ✔️ Closed issue [#8](https://github.com/CryptoSingh1337/vidflow-backend/issues/8) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+4. ✔️ Closed issue [#7](https://github.com/CryptoSingh1337/vidflow-backend/issues/7) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+5. ✔️ Closed issue [#6](https://github.com/CryptoSingh1337/vidflow-backend/issues/6) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
