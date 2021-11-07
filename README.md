@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#14](https://github.com/CryptoSingh1337/vidflow-backend/issues/14) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-2. ✔️ Closed issue [#13](https://github.com/CryptoSingh1337/vidflow-backend/issues/13) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-3. ✔️ Closed issue [#11](https://github.com/CryptoSingh1337/vidflow-backend/issues/11) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-4. ✔️ Closed issue [#17](https://github.com/CryptoSingh1337/vidflow-backend/issues/17) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-5. ✔️ Closed issue [#16](https://github.com/CryptoSingh1337/vidflow-backend/issues/16) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. ⭐ Starred [rajrajhans/diff-using-lcs](https://github.com/rajrajhans/diff-using-lcs)
+2. ✔️ Closed issue [#14](https://github.com/CryptoSingh1337/vidflow-backend/issues/14) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+3. ✔️ Closed issue [#13](https://github.com/CryptoSingh1337/vidflow-backend/issues/13) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+4. ✔️ Closed issue [#11](https://github.com/CryptoSingh1337/vidflow-backend/issues/11) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+5. ✔️ Closed issue [#17](https://github.com/CryptoSingh1337/vidflow-backend/issues/17) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
