@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
-2. ⭐ Starred [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows)
-3. ⭐ Starred [rajrajhans/diff-using-lcs](https://github.com/rajrajhans/diff-using-lcs)
-4. ✔️ Closed issue [#14](https://github.com/CryptoSingh1337/vidflow-backend/issues/14) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-5. ✔️ Closed issue [#13](https://github.com/CryptoSingh1337/vidflow-backend/issues/13) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. ⭐ Starred [agomezmoron/screen-recorder](https://github.com/agomezmoron/screen-recorder)
+2. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
+3. ⭐ Starred [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows)
+4. ⭐ Starred [rajrajhans/diff-using-lcs](https://github.com/rajrajhans/diff-using-lcs)
+5. ✔️ Closed issue [#14](https://github.com/CryptoSingh1337/vidflow-backend/issues/14) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
