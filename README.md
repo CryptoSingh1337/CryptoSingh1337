@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [agomezmoron/screen-recorder](https://github.com/agomezmoron/screen-recorder)
-2. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
-3. ⭐ Starred [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows)
-4. ⭐ Starred [rajrajhans/diff-using-lcs](https://github.com/rajrajhans/diff-using-lcs)
-5. ✔️ Closed issue [#14](https://github.com/CryptoSingh1337/vidflow-backend/issues/14) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. ⭐ Starred [agomezmoron/screen-recorder](https://github.com/agomezmoron/screen-recorder)
+3. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
+4. ⭐ Starred [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows)
+5. ⭐ Starred [rajrajhans/diff-using-lcs](https://github.com/rajrajhans/diff-using-lcs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
