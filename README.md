@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [SerpentAI/D3DShot](https://github.com/SerpentAI/D3DShot)
-2. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-3. ⭐ Starred [agomezmoron/screen-recorder](https://github.com/agomezmoron/screen-recorder)
-4. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
-5. ⭐ Starred [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows)
+1. ⭐ Starred [CryptoSingh1337/GMoments](https://github.com/CryptoSingh1337/GMoments)
+2. ⭐ Starred [SerpentAI/D3DShot](https://github.com/SerpentAI/D3DShot)
+3. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+4. ⭐ Starred [agomezmoron/screen-recorder](https://github.com/agomezmoron/screen-recorder)
+5. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
