@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [CryptoSingh1337/GMoments](https://github.com/CryptoSingh1337/GMoments)
-2. ⭐ Starred [SerpentAI/D3DShot](https://github.com/SerpentAI/D3DShot)
-3. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. ⭐ Starred [agomezmoron/screen-recorder](https://github.com/agomezmoron/screen-recorder)
-5. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
+1. ❗️ Opened issue [#18](https://github.com/CryptoSingh1337/vidflow-backend/issues/18) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+2. ⭐ Starred [CryptoSingh1337/GMoments](https://github.com/CryptoSingh1337/GMoments)
+3. ⭐ Starred [SerpentAI/D3DShot](https://github.com/SerpentAI/D3DShot)
+4. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. ⭐ Starred [agomezmoron/screen-recorder](https://github.com/agomezmoron/screen-recorder)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
