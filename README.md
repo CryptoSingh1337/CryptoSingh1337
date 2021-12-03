@@ -54,13 +54,13 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,331 Contributions in the Year 2021
+> 🏆 1,339 Contributions in the Year 2021
  > 
 > 📦 212.4 kB Used in GitHub's Storage 
  > 
@@ -68,15 +68,15 @@
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-🌆 Daytime    391 commits    ██████████░░░░░░░░░░░░░░░   40.56% 
-🌃 Evening    389 commits    ██████████░░░░░░░░░░░░░░░   40.35% 
-🌙 Night      49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
+🌞 Morning    134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+🌆 Daytime    389 commits    ██████████░░░░░░░░░░░░░░░   40.52% 
+🌃 Evening    388 commits    ██████████░░░░░░░░░░░░░░░   40.42% 
+🌙 Night      49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
 
 ```
 
@@ -87,16 +87,21 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     33 mins             ███████████████░░░░░░░░░░   61.11% 
+XML                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.48% 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 48 mins             ██████████████████████░░░   89.08% 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  54 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/12/2021
+ Last Updated on 03/12/2021
 <!--END_SECTION:waka-->
