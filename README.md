@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#19](https://github.com/CryptoSingh1337/vidflow-backend/issues/19) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-2. ✔️ Closed issue [#18](https://github.com/CryptoSingh1337/vidflow-backend/issues/18) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-3. ❗️ Opened issue [#3](https://github.com/CryptoSingh1337/GMomemts/issues/3) in [CryptoSingh1337/GMomemts](https://github.com/CryptoSingh1337/GMomemts)
-4. ⭐ Starred [CryptoSingh1337/GMomemts](https://github.com/CryptoSingh1337/GMomemts)
-5. ❗️ Opened issue [#2](https://github.com/CryptoSingh1337/GMomemts/issues/2) in [CryptoSingh1337/GMomemts](https://github.com/CryptoSingh1337/GMomemts)
+1. ⭐ Starred [giuspen/cherrytree](https://github.com/giuspen/cherrytree)
+2. ❗️ Opened issue [#19](https://github.com/CryptoSingh1337/vidflow-backend/issues/19) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+3. ✔️ Closed issue [#18](https://github.com/CryptoSingh1337/vidflow-backend/issues/18) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+4. ❗️ Opened issue [#3](https://github.com/CryptoSingh1337/GMomemts/issues/3) in [CryptoSingh1337/GMomemts](https://github.com/CryptoSingh1337/GMomemts)
+5. ⭐ Starred [CryptoSingh1337/GMomemts](https://github.com/CryptoSingh1337/GMomemts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
