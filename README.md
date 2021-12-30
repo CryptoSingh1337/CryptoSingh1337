@@ -46,11 +46,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [prateekmedia/appimagepool](https://github.com/prateekmedia/appimagepool)
-2. ✔️ Closed issue [#25](https://github.com/CryptoSingh1337/vidflow-backend/issues/25) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-3. ❗️ Opened issue [#25](https://github.com/CryptoSingh1337/vidflow-backend/issues/25) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-4. ✔️ Closed issue [#32](https://github.com/CryptoSingh1337/vidflow-client/issues/32) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-5. ❗️ Opened issue [#32](https://github.com/CryptoSingh1337/vidflow-client/issues/32) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+1. ✔️ Closed issue [#26](https://github.com/CryptoSingh1337/vidflow-backend/issues/26) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+2. ❗️ Opened issue [#26](https://github.com/CryptoSingh1337/vidflow-backend/issues/26) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+3. ⭐ Starred [prateekmedia/appimagepool](https://github.com/prateekmedia/appimagepool)
+4. ✔️ Closed issue [#25](https://github.com/CryptoSingh1337/vidflow-backend/issues/25) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+5. ❗️ Opened issue [#25](https://github.com/CryptoSingh1337/vidflow-backend/issues/25) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
