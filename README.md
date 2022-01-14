@@ -39,7 +39,7 @@
 </div>
 <br>
 <div align="center">
-<img  alt="CryptoSingh's Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoSingh1337&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
+<img  alt="CryptoSingh's Stats" src="https://github-readme-stats-clone.vercel.app/api?username=CryptoSingh1337&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
 </div>
 
 ### ⚡ Recent GitHub Activity
