@@ -14,8 +14,8 @@
 <a href="https://discord.gg/6efHuzv" target="_blank"><img alt="discord" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/></a>&nbsp;&nbsp;
 <a href="https://cryptosingh1337.medium.com/" target="_blank"><img alt="Medium" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg"/></a>&nbsp;&nbsp;
 <a href="https://youtube.com/cryptosingh" target="_blank"><img alt="youtube" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/saransh-kumar-2k19/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>
-<a href="https://leetcode.com/cryptosingh/" target="_blank"><img alt="leetcode" height="40px" width="40px" src="./icons/leetcode.svg"/></a>
+<a href="https://linkedin.com/in/saransh-kumar-2k19/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/cryptosingh/" target="_blank"><img alt="leetcode" height="40px" width="40px" src="./icons/leetcode.svg"/></a>&nbsp;&nbsp;
 <a href="https://codechef.com/users/cryptosingh" target="_blank"><img alt="codechef" height="40px" width="40px" src="./icons/codechef.svg"/></a>
 <br>
 <br>
