@@ -13,8 +13,10 @@
 <a href="https://saransh-kumar.online/" target="_blank"><img alt="website" height="40px" width="40px" src="./icons/world-wide-web.svg"/></a>&nbsp;&nbsp;
 <a href="https://discord.gg/6efHuzv" target="_blank"><img alt="discord" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/></a>&nbsp;&nbsp;
 <a href="https://cryptosingh1337.medium.com/" target="_blank"><img alt="Medium" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/cryptosingh" target="_blank"><img alt="youtube" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saransh-kumar-2k19/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>
+<a href="https://youtube.com/cryptosingh" target="_blank"><img alt="youtube" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/saransh-kumar-2k19/" target="_blank"><img alt="linkedin" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/></a>
+<a href="https://leetcode.com/cryptosingh/" target="_blank"><img alt="leetcode" height="40px" width="40px" src="./icons/leetcode.svg"/></a>
+<a href="https://codechef.com/users/cryptosingh" target="_blank"><img alt="codechef" height="40px" width="40px" src="./icons/codechef.svg"/></a>
 <br>
 <br>
 <a href="https://github.com/CryptoSingh1337/cryptosingh1337.github.io/raw/master/src/assets/resume/SaranshKumar-Resume.pdf" download>![](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-blue?style=plastic)</a>
@@ -28,7 +30,7 @@
 <code><img alt="Spring" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/spring.svg" title="Spring"/></code>
 <code><img alt="Hibernate" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/hibernate.svg" title="Hibernate"/></code>
 <code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
-<code><img alt="Vue 3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue 3"/></code>
+<code><img alt="Vue" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue 3"/></code>
 <code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
 <code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
 <code><img alt="Bootstrap" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg" title="Bootstrap"/></code>
