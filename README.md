@@ -46,10 +46,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-2. ⭐ Starred [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
-3. ✔️ Closed issue [#37](https://github.com/CryptoSingh1337/vidflow-client/issues/37) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-4. ❗️ Opened issue [#37](https://github.com/CryptoSingh1337/vidflow-client/issues/37) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+1. ❗️ Opened issue [#39](https://github.com/CryptoSingh1337/vidflow-client/issues/39) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+2. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+3. ⭐ Starred [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+4. ✔️ Closed issue [#37](https://github.com/CryptoSingh1337/vidflow-client/issues/37) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
 5. ✔️ Closed issue [#29](https://github.com/CryptoSingh1337/vidflow-backend/issues/29) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
