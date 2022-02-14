@@ -36,6 +36,7 @@
 <code><img alt="Bootstrap" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/bootstrap.svg" title="Bootstrap"/></code>
 <code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
 <code><img alt="Intellij-Idea" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/intellij-idea.svg" title="Intellij-IDEA"/></code>
+<code><img alt="Docker" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/docker-icon.svg" title="Docker"/></code>
 </div>
 <br>
 <div align="center">
