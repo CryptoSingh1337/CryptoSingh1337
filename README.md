@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [CryptoSingh1337/delivery-tracker](https://github.com/CryptoSingh1337/delivery-tracker)
-2. ❗️ Opened issue [#39](https://github.com/CryptoSingh1337/vidflow-client/issues/39) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-3. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-4. ⭐ Starred [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
-5. ✔️ Closed issue [#37](https://github.com/CryptoSingh1337/vidflow-client/issues/37) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+1. ⭐ Starred [CryptoSingh1337/delivery-tracker](https://github.com/CryptoSingh1337/delivery-tracker)
+2. 📔 Created new repository [CryptoSingh1337/delivery-tracker](https://github.com/CryptoSingh1337/delivery-tracker)
+3. ❗️ Opened issue [#39](https://github.com/CryptoSingh1337/vidflow-client/issues/39) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+4. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+5. ⭐ Starred [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
