@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#34](https://github.com/CryptoSingh1337/vidflow-client/issues/34) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-2. ✔️ Closed issue [#39](https://github.com/CryptoSingh1337/vidflow-client/issues/39) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-3. ⭐ Starred [CryptoSingh1337/delivery-tracker](https://github.com/CryptoSingh1337/delivery-tracker)
-4. 📔 Created new repository [CryptoSingh1337/delivery-tracker](https://github.com/CryptoSingh1337/delivery-tracker)
-5. ❗️ Opened issue [#39](https://github.com/CryptoSingh1337/vidflow-client/issues/39) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+1. ⭐ Starred [sainathadapa/i3-wm-config](https://github.com/sainathadapa/i3-wm-config)
+2. ✔️ Closed issue [#34](https://github.com/CryptoSingh1337/vidflow-client/issues/34) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+3. ✔️ Closed issue [#39](https://github.com/CryptoSingh1337/vidflow-client/issues/39) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+4. ⭐ Starred [CryptoSingh1337/delivery-tracker](https://github.com/CryptoSingh1337/delivery-tracker)
+5. 📔 Created new repository [CryptoSingh1337/delivery-tracker](https://github.com/CryptoSingh1337/delivery-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
