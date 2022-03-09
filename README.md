@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [polybar/polybar](https://github.com/polybar/polybar)
-2. ⭐ Starred [CryptoSingh1337/linux-setup](https://github.com/CryptoSingh1337/linux-setup)
-3. 📔 Created new repository [CryptoSingh1337/linux-setup](https://github.com/CryptoSingh1337/linux-setup)
-4. ⭐ Starred [sainathadapa/i3-wm-config](https://github.com/sainathadapa/i3-wm-config)
-5. ✔️ Closed issue [#34](https://github.com/CryptoSingh1337/vidflow-client/issues/34) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+1. 🔱 Forked [CryptoSingh1337/anmol098](https://github.com/CryptoSingh1337/anmol098) from [anmol098/anmol098](https://github.com/anmol098/anmol098)
+2. ⭐ Starred [polybar/polybar](https://github.com/polybar/polybar)
+3. ⭐ Starred [CryptoSingh1337/linux-setup](https://github.com/CryptoSingh1337/linux-setup)
+4. 📔 Created new repository [CryptoSingh1337/linux-setup](https://github.com/CryptoSingh1337/linux-setup)
+5. ⭐ Starred [sainathadapa/i3-wm-config](https://github.com/sainathadapa/i3-wm-config)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
