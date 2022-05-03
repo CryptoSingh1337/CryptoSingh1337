@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Web Development (Backend: Spring Boot & Frontend: Vue) and DSA.
 - ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games.
 
-<a href="https://saransh-kumar.online/" target="_blank"><img alt="website" height="40px" width="40px" src="./icons/world-wide-web.svg"/></a>&nbsp;&nbsp;
+<a href="https://saranshkumar.me/" target="_blank"><img alt="website" height="40px" width="40px" src="./icons/world-wide-web.svg"/></a>&nbsp;&nbsp;
 <a href="https://discord.gg/6efHuzv" target="_blank"><img alt="discord" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/></a>&nbsp;&nbsp;
 <a href="https://cryptosingh1337.medium.com/" target="_blank"><img alt="Medium" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg"/></a>&nbsp;&nbsp;
 <a href="https://youtube.com/cryptosingh" target="_blank"><img alt="youtube" height="40px" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"/></a>&nbsp;&nbsp;
