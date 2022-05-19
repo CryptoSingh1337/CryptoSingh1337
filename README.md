@@ -47,9 +47,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [nuxt/framework](https://github.com/nuxt/framework)
-2. ⭐ Starred [CryptoSingh1337/lexical-analyzer](https://github.com/CryptoSingh1337/lexical-analyzer)
-3. 📔 Created new repository [CryptoSingh1337/expense-management](https://github.com/CryptoSingh1337/expense-management)
+1. ⭐ Starred [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
+2. ⭐ Starred [nuxt/framework](https://github.com/nuxt/framework)
+3. ⭐ Starred [CryptoSingh1337/lexical-analyzer](https://github.com/CryptoSingh1337/lexical-analyzer)
 4. ⭐ Starred [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 5. 🔱 Forked [CryptoSingh1337/anmol098](https://github.com/CryptoSingh1337/anmol098) from [anmol098/anmol098](https://github.com/anmol098/anmol098)
 <!--RECENT_ACTIVITY:end-->
