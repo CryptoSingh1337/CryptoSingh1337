@@ -47,9 +47,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr)
-2. ⭐ Starred [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
-3. ⭐ Starred [nuxt/framework](https://github.com/nuxt/framework)
+1. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
+2. ⭐ Starred [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr)
+3. ⭐ Starred [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
 4. ⭐ Starred [CryptoSingh1337/lexical-analyzer](https://github.com/CryptoSingh1337/lexical-analyzer)
 5. 🔱 Forked [CryptoSingh1337/anmol098](https://github.com/CryptoSingh1337/anmol098) from [anmol098/anmol098](https://github.com/anmol098/anmol098)
 <!--RECENT_ACTIVITY:end-->
