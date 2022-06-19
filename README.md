@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib)
-2. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
-3. ⭐ Starred [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr)
-4. ⭐ Starred [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
-5. 🔱 Forked [CryptoSingh1337/anmol098](https://github.com/CryptoSingh1337/anmol098) from [anmol098/anmol098](https://github.com/anmol098/anmol098)
+1. ⭐ Starred [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft)
+2. ⭐ Starred [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib)
+3. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
+4. ⭐ Starred [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr)
+5. ⭐ Starred [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
