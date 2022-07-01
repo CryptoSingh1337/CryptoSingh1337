@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
-2. ⭐ Starred [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft)
-3. ⭐ Starred [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib)
-4. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
-5. ⭐ Starred [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr)
+1. ⭐ Starred [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct)
+2. ⭐ Starred [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
+3. ⭐ Starred [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft)
+4. ⭐ Starred [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib)
+5. ⭐ Starred [marktext/marktext](https://github.com/marktext/marktext)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
