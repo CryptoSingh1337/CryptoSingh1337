@@ -54,8 +54,8 @@
 5. ⭐ Starred [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
 <!--RECENT_ACTIVITY:end-->
 
+[![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298%20Thousand%20lines%20of%20code-blue)
 
