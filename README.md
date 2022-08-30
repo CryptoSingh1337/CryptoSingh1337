@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [CryptoSingh1337/fellowship-backend](https://github.com/CryptoSingh1337/fellowship-backend)
-2. ⭐ Starred [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
-3. 📔 Created new repository [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
-4. ⭐ Starred [CryptoSingh1337/GMoments](https://github.com/CryptoSingh1337/GMoments)
-5. ⭐ Starred [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct)
+1. 📔 Created new repository [CryptoSingh1337/ine-assignment](https://github.com/CryptoSingh1337/ine-assignment)
+2. ⭐ Starred [CryptoSingh1337/fellowship-backend](https://github.com/CryptoSingh1337/fellowship-backend)
+3. ⭐ Starred [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
+4. 📔 Created new repository [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
+5. ⭐ Starred [CryptoSingh1337/GMoments](https://github.com/CryptoSingh1337/GMoments)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
