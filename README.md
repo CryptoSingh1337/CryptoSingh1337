@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [CryptoSingh1337/fellowship-backend](https://github.com/CryptoSingh1337/fellowship-backend)
-2. ⭐ Starred [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
-3. 📔 Created new repository [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
-4. ⭐ Starred [CryptoSingh1337/GMoments](https://github.com/CryptoSingh1337/GMoments)
-5. ⭐ Starred [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct)
+1. ✔️ Closed issue [#40](https://github.com/CryptoSingh1337/vidflow-client/issues/40) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+2. ❗️ Opened issue [#40](https://github.com/CryptoSingh1337/vidflow-client/issues/40) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+3. ⭐ Starred [CryptoSingh1337/fellowship-backend](https://github.com/CryptoSingh1337/fellowship-backend)
+4. ⭐ Starred [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
+5. 📔 Created new repository [CryptoSingh1337/simple-version-control](https://github.com/CryptoSingh1337/simple-version-control)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
