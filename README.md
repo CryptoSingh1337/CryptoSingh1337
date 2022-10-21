@@ -56,13 +56,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 534 Contributions in the Year 2022
+> 🏆 540 Contributions in the Year 2022
  > 
-> 📦 215.5 kB Used in GitHub's Storage 
+> 📦 215.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -73,10 +73,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-🌆 Daytime    265 commits    █████████░░░░░░░░░░░░░░░░   36.4% 
-🌃 Evening    298 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
-🌙 Night      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99%
+🌞 Morning    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
+🌆 Daytime    263 commits    █████████░░░░░░░░░░░░░░░░   36.03% 
+🌃 Evening    302 commits    ██████████░░░░░░░░░░░░░░░   41.37% 
+🌙 Night      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96%
 
 ```
 
@@ -99,5 +99,5 @@ Windows                  1 hr 17 mins        ███████████�
 ```
 
 
- Last Updated on 20/10/2022 03:04:00 UTC
+ Last Updated on 21/10/2022 02:24:35 UTC
 <!--END_SECTION:waka-->
