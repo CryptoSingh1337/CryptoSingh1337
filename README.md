@@ -87,17 +87,16 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 mins              ████████████████░░░░░░░░░   66.08% 
-Text                     2 mins              ████████░░░░░░░░░░░░░░░░░   33.92%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/10/2022 02:38:26 UTC
+ Last Updated on 27/10/2022 02:31:31 UTC
 <!--END_SECTION:waka-->
