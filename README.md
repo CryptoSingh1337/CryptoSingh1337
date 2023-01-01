@@ -47,8 +47,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/vidflow-backend/issues/38) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-2. ❗️ Opened issue [#37](https://github.com/CryptoSingh1337/vidflow-backend/issues/37) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. 💪 Opened PR [#39](https://github.com/CryptoSingh1337/vidflow-backend/pull/39) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+2. ❗️ Opened issue [#38](https://github.com/CryptoSingh1337/vidflow-backend/issues/38) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 3. ❗️ Opened issue [#36](https://github.com/CryptoSingh1337/vidflow-backend/issues/36) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 4. ❗️ Opened issue [#35](https://github.com/CryptoSingh1337/vidflow-backend/issues/35) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 5. ❗️ Opened issue [#34](https://github.com/CryptoSingh1337/vidflow-backend/issues/34) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
