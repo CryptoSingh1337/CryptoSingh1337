@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#36](https://github.com/CryptoSingh1337/vidflow-backend/issues/36) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-2. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/vidflow-backend/issues/38) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-3. ✔️ Closed issue [#37](https://github.com/CryptoSingh1337/vidflow-backend/issues/37) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-4. ✔️ Closed issue [#35](https://github.com/CryptoSingh1337/vidflow-backend/issues/35) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-5. ✔️ Closed issue [#31](https://github.com/CryptoSingh1337/vidflow-backend/issues/31) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. ⭐ Starred [FaizBShah/SpringBoot-JWT-Authentication](https://github.com/FaizBShah/SpringBoot-JWT-Authentication)
+2. ✔️ Closed issue [#36](https://github.com/CryptoSingh1337/vidflow-backend/issues/36) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+3. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/vidflow-backend/issues/38) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+4. ✔️ Closed issue [#37](https://github.com/CryptoSingh1337/vidflow-backend/issues/37) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+5. ✔️ Closed issue [#35](https://github.com/CryptoSingh1337/vidflow-backend/issues/35) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
