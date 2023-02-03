@@ -87,17 +87,16 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     0 secs              ███████████████░░░░░░░░░░   60.22% 
-Java                     0 secs              ██████████░░░░░░░░░░░░░░░   39.78%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/02/2023 01:59:58 UTC
+ Last Updated on 03/02/2023 02:00:43 UTC
 <!--END_SECTION:waka-->
