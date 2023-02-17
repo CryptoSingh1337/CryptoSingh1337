@@ -56,7 +56,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-316%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-366%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,5 +98,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/02/2023 01:59:51 UTC
+ Last Updated on 17/02/2023 01:54:46 UTC
 <!--END_SECTION:waka-->
