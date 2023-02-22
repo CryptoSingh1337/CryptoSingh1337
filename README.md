@@ -56,13 +56,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-366%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 48 Contributions in the Year 2023
+> 🏆 50 Contributions in the Year 2023
  > 
-> 📦 217.9 kB Used in GitHub's Storage 
+> 📦 218.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -70,13 +70,13 @@
  > 
 > 🔑 13 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning       83 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-🌆 Daytime      277 commits       █████████░░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening      274 commits       █████████░░░░░░░░░░░░░░░░   37.90 % 
-🌙 Night         89 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌞 Morning      116 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+🌆 Daytime      406 commits       ██████████░░░░░░░░░░░░░░░   40.32 % 
+🌃 Evening      381 commits       █████████░░░░░░░░░░░░░░░░   37.84 % 
+🌙 Night        104 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 
 ```
 
@@ -87,16 +87,21 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     18 mins             ███████████████████░░░░░░   78.30 % 
+JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 19 mins             █████████████████████░░░░   84.69 % 
+VS Code                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 21/02/2023 01:52:53 UTC
+ Last Updated on 22/02/2023 01:49:48 UTC
 <!--END_SECTION:waka-->
