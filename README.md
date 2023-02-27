@@ -47,10 +47,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#40](https://github.com/CryptoSingh1337/vidflow-backend/issues/40) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-2. ❗️ Opened issue [#41](https://github.com/CryptoSingh1337/vidflow-client/issues/41) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-3. 📔 Created new repository [CryptoSingh1337/nuxt3-auth](https://github.com/CryptoSingh1337/nuxt3-auth)
-4. ⭐ Starred [FaizBShah/SpringBoot-JWT-Authentication](https://github.com/FaizBShah/SpringBoot-JWT-Authentication)
+1. ❗️ Opened issue [#42](https://github.com/CryptoSingh1337/vidflow-client/issues/42) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+2. ❗️ Opened issue [#40](https://github.com/CryptoSingh1337/vidflow-backend/issues/40) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+3. ❗️ Opened issue [#41](https://github.com/CryptoSingh1337/vidflow-client/issues/41) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+4. 📔 Created new repository [CryptoSingh1337/nuxt3-auth](https://github.com/CryptoSingh1337/nuxt3-auth)
 5. ✔️ Closed issue [#36](https://github.com/CryptoSingh1337/vidflow-backend/issues/36) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
