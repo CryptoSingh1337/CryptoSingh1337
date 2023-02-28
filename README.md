@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#42](https://github.com/CryptoSingh1337/vidflow-client/issues/42) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-2. ❗️ Opened issue [#40](https://github.com/CryptoSingh1337/vidflow-backend/issues/40) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-3. ❗️ Opened issue [#41](https://github.com/CryptoSingh1337/vidflow-client/issues/41) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-4. 📔 Created new repository [CryptoSingh1337/nuxt3-auth](https://github.com/CryptoSingh1337/nuxt3-auth)
-5. ✔️ Closed issue [#36](https://github.com/CryptoSingh1337/vidflow-backend/issues/36) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. ❗️ Opened issue [#41](https://github.com/CryptoSingh1337/vidflow-backend/issues/41) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+2. ❗️ Opened issue [#43](https://github.com/CryptoSingh1337/vidflow-client/issues/43) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+3. ❗️ Opened issue [#42](https://github.com/CryptoSingh1337/vidflow-client/issues/42) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+4. ❗️ Opened issue [#40](https://github.com/CryptoSingh1337/vidflow-backend/issues/40) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+5. ❗️ Opened issue [#41](https://github.com/CryptoSingh1337/vidflow-client/issues/41) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
