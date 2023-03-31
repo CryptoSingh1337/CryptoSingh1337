@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#41](https://github.com/CryptoSingh1337/vidflow-backend/issues/41) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-2. ❗️ Opened issue [#44](https://github.com/CryptoSingh1337/vidflow-backend/issues/44) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-3. ❗️ Opened issue [#43](https://github.com/CryptoSingh1337/vidflow-backend/issues/43) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-4. ❗️ Opened issue [#42](https://github.com/CryptoSingh1337/vidflow-backend/issues/42) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-5. ⭐ Starred [caprover/caprover](https://github.com/caprover/caprover)
+1. ❗️ Opened issue [#45](https://github.com/CryptoSingh1337/vidflow-backend/issues/45) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+2. ✔️ Closed issue [#41](https://github.com/CryptoSingh1337/vidflow-backend/issues/41) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+3. ❗️ Opened issue [#44](https://github.com/CryptoSingh1337/vidflow-backend/issues/44) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+4. ❗️ Opened issue [#43](https://github.com/CryptoSingh1337/vidflow-backend/issues/43) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+5. ❗️ Opened issue [#42](https://github.com/CryptoSingh1337/vidflow-backend/issues/42) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
