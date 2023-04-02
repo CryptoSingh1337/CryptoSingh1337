@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-2. 🎉 Merged PR [#44](https://github.com/CryptoSingh1337/vidflow-client/pull/44) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-3. 💪 Opened PR [#44](https://github.com/CryptoSingh1337/vidflow-client/pull/44) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-4. ❗️ Opened issue [#45](https://github.com/CryptoSingh1337/vidflow-backend/issues/45) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
-5. ✔️ Closed issue [#41](https://github.com/CryptoSingh1337/vidflow-backend/issues/41) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
+1. ❗️ Opened issue [#45](https://github.com/CryptoSingh1337/vidflow-client/issues/45) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+2. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+3. 🎉 Merged PR [#44](https://github.com/CryptoSingh1337/vidflow-client/pull/44) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+4. 💪 Opened PR [#44](https://github.com/CryptoSingh1337/vidflow-client/pull/44) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+5. ❗️ Opened issue [#45](https://github.com/CryptoSingh1337/vidflow-backend/issues/45) in [CryptoSingh1337/vidflow-backend](https://github.com/CryptoSingh1337/vidflow-backend)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
