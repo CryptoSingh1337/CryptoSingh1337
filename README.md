@@ -86,17 +86,15 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 mins             ██████████░░░░░░░░░░░░░░░   41.04 % 
-Text                     10 mins             ████████░░░░░░░░░░░░░░░░░   30.74 % 
-Markdown                 9 mins              ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/04/2023 01:39:37 UTC
+ Last Updated on 25/04/2023 01:38:14 UTC
 <!--END_SECTION:waka-->
