@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#45](https://github.com/CryptoSingh1337/vidflow-client/issues/45) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-2. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-3. ❗️ Opened issue [#45](https://github.com/CryptoSingh1337/vidflow-client/issues/45) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-4. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
-5. 🎉 Merged PR [#44](https://github.com/CryptoSingh1337/vidflow-client/pull/44) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+1. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
+2. ✔️ Closed issue [#45](https://github.com/CryptoSingh1337/vidflow-client/issues/45) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+3. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+4. ❗️ Opened issue [#45](https://github.com/CryptoSingh1337/vidflow-client/issues/45) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
+5. ✔️ Closed issue [#38](https://github.com/CryptoSingh1337/vidflow-client/issues/38) in [CryptoSingh1337/vidflow-client](https://github.com/CryptoSingh1337/vidflow-client)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
