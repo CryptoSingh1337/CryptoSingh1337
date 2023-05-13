@@ -86,15 +86,15 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+INI                      47 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/05/2023 01:34:50 UTC
+ Last Updated on 13/05/2023 01:34:41 UTC
 <!--END_SECTION:waka-->
