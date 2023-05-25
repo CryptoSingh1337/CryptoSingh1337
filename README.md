@@ -86,16 +86,15 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Vue.js                   25 mins             ██████████████████████░░░   89.69 % 
-Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/05/2023 01:42:59 UTC
+ Last Updated on 25/05/2023 01:37:42 UTC
 <!--END_SECTION:waka-->
