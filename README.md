@@ -56,27 +56,27 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-819.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 218.3 kB Used in GitHub's Storage 
  > 
-> 🏆 366 Contributions in the Year 2023
+> 🏆 369 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 54 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-🌆 Daytime                847 commits         ██████████░░░░░░░░░░░░░░░   41.14 % 
-🌃 Evening                845 commits         ██████████░░░░░░░░░░░░░░░   41.04 % 
-🌙 Night                  177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+🌞 Morning                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+🌆 Daytime                849 commits         ██████████░░░░░░░░░░░░░░░   41.17 % 
+🌃 Evening                846 commits         ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌙 Night                  177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 
@@ -86,15 +86,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   7 mins              ██████████████████████░░░   88.07 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/05/2023 01:50:28 UTC
+ Last Updated on 29/05/2023 01:43:38 UTC
 <!--END_SECTION:waka-->
