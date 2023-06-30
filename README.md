@@ -7,7 +7,7 @@
 ## I'm a Student and a Gamer!<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="right"/>
 
 - 🔭 I’m currently working on my problem solving skills and projects.
-- 🌱 I’m currently learning Web Development (Backend: Spring Boot & Frontend: Vue) and DSA.
+- 🌱 I’m currently learning Spring and Spring Boot.
 - ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games.
 
 <a href="https://saranshkumar.me/" target="_blank"><img alt="website" height="40px" width="40px" src="./icons/world-wide-web.svg"/></a>&nbsp;&nbsp;
