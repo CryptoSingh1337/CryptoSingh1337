@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#4](https://github.com/CryptoSingh1337/urlific/issues/4) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
-2. ✔️ Closed issue [#1](https://github.com/CryptoSingh1337/urlific/issues/1) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
-3. ❗️ Opened issue [#3](https://github.com/CryptoSingh1337/urlific/issues/3) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
-4. ❗️ Opened issue [#2](https://github.com/CryptoSingh1337/urlific/issues/2) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
-5. ❗️ Opened issue [#1](https://github.com/CryptoSingh1337/urlific/issues/1) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
+1. 🎉 Merged PR [#8](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/8) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+2. ❗️ Opened issue [#4](https://github.com/CryptoSingh1337/urlific/issues/4) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
+3. ✔️ Closed issue [#1](https://github.com/CryptoSingh1337/urlific/issues/1) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
+4. ❗️ Opened issue [#3](https://github.com/CryptoSingh1337/urlific/issues/3) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
+5. ❗️ Opened issue [#2](https://github.com/CryptoSingh1337/urlific/issues/2) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
