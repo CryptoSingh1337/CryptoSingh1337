@@ -47,11 +47,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#13](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/13) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-2. 🎉 Merged PR [#11](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/11) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-3. 🎉 Merged PR [#10](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/10) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-4. 🎉 Merged PR [#8](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/8) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-5. ❗️ Opened issue [#4](https://github.com/CryptoSingh1337/urlific/issues/4) in [CryptoSingh1337/urlific](https://github.com/CryptoSingh1337/urlific)
+1. 🎉 Merged PR [#14](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/14) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+2. 🎉 Merged PR [#16](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/16) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+3. 🎉 Merged PR [#15](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/15) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+4. 🎉 Merged PR [#13](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/13) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+5. 🎉 Merged PR [#11](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/11) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
