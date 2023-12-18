@@ -53,11 +53,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#17](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/17) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-2. ⭐ Starred [klange/toaruos](https://github.com/klange/toaruos)
-3. ⭐ Starred [CryptoSingh1337/aoc-2023](https://github.com/CryptoSingh1337/aoc-2023)
-4. 🎉 Merged PR [#14](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/14) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-5. 🎉 Merged PR [#16](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/16) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+1. 🎉 Merged PR [#21](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/21) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+2. 🎉 Merged PR [#18](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/18) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+3. 🎉 Merged PR [#17](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/17) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+4. ⭐ Starred [klange/toaruos](https://github.com/klange/toaruos)
+5. ⭐ Starred [CryptoSingh1337/aoc-2023](https://github.com/CryptoSingh1337/aoc-2023)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
