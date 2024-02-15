@@ -53,11 +53,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [SurajBhari/clip_nightbot](https://github.com/SurajBhari/clip_nightbot)
-2. 🎉 Merged PR [#29](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/29) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-3. 🎉 Merged PR [#28](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/28) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-4. 🎉 Merged PR [#24](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/24) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-5. 🎉 Merged PR [#22](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/22) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+1. 🎉 Merged PR [#33](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/33) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+2. ⭐ Starred [SurajBhari/clip_nightbot](https://github.com/SurajBhari/clip_nightbot)
+3. 🎉 Merged PR [#29](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/29) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+4. 🎉 Merged PR [#28](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/28) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+5. 🎉 Merged PR [#24](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/24) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
