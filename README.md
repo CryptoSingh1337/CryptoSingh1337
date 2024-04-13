@@ -53,11 +53,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#42](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/42) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-2. 🎉 Merged PR [#39](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/39) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-3. 🎉 Merged PR [#38](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/38) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-4. 🎉 Merged PR [#37](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/37) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-5. 🎉 Merged PR [#36](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/36) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+1. ⭐ Starred [BayBreezy/nuxt3-vuetify3-starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
+2. 🎉 Merged PR [#42](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/42) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+3. 🎉 Merged PR [#39](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/39) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+4. 🎉 Merged PR [#38](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/38) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+5. 🎉 Merged PR [#37](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/37) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
