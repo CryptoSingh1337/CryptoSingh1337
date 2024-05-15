@@ -53,11 +53,11 @@
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#48](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/48) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-2. 🎉 Merged PR [#47](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/47) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-3. 🎉 Merged PR [#46](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/46) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-4. 🎉 Merged PR [#45](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/45) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
-5. 🎉 Merged PR [#44](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/44) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+1. 🎉 Merged PR [#51](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/51) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+2. 🎉 Merged PR [#50](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/50) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+3. 🎉 Merged PR [#48](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/48) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+4. 🎉 Merged PR [#47](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/47) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
+5. 🎉 Merged PR [#46](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/46) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
