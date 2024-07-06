@@ -52,10 +52,10 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/rust](https://github.com/CryptoSingh1337/rust)<br>
+1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/rust](https://github.com/CryptoSingh1337/rust)<br>
 3. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/rust](https://github.com/CryptoSingh1337/rust)<br>
-4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/rust](https://github.com/CryptoSingh1337/rust)<br>
 5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 <!--RECENT_ACTIVITY:end-->
 
