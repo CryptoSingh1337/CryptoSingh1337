@@ -53,10 +53,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-2. ⭐ Starred [getredash/redash](https://github.com/getredash/redash)<br>
-3. ⭐ Starred [knadh/listmonk](https://github.com/knadh/listmonk)<br>
-4. ⭐ Starred [haraka/Haraka](https://github.com/haraka/Haraka)<br>
-5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+3. ⭐ Starred [getredash/redash](https://github.com/getredash/redash)<br>
+4. ⭐ Starred [knadh/listmonk](https://github.com/knadh/listmonk)<br>
+5. ⭐ Starred [haraka/Haraka](https://github.com/haraka/Haraka)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
