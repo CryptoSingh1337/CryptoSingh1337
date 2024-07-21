@@ -29,11 +29,8 @@
  <code><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/java.svg" title="Java"/></code>
  <code><img alt="Spring" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/spring.svg" title="Spring"/></code>
  <code><img alt="Hibernate" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/hibernate.svg" title="Hibernate"/></code>
- <code><img alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" title="HTML5"/></code>
- <code><img alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" title="CSS3"/></code>
  <code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
  <code><img alt="TypeScript" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" title="TypeScript"/></code>
- <code><img alt="Bootstrap" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" title="Bootstrap"/></code>
  <code><img alt="Tailwind" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tailwindcss-icon.svg" title="Tailwind CSS"/></code>
  <code><img alt="Vue" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue 3"/></code>
  <code><img alt="Nuxt" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nuxt-icon.svg" title="Nuxt 3"/></code>
