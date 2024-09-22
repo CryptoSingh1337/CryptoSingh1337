@@ -34,6 +34,7 @@
  <code><img alt="Tailwind" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tailwindcss-icon.svg" title="Tailwind CSS"/></code>
  <code><img alt="Vue" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue 3"/></code>
  <code><img alt="Nuxt" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nuxt-icon.svg" title="Nuxt 3"/></code>
+ <code><img alt="Nuxt" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/gopher.svg)" title="Go"/></code>
  <code><img alt="Node.js" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" title="Node.js"/></code>
  <code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
  <code><img alt="Docker" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/docker-icon.svg" title="Docker"/></code>
