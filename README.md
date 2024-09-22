@@ -6,7 +6,7 @@
 
 ## I'm a Student and a Gamer!<img src="https://komarev.com/ghpvc/?username=cryptosingh1337" alt="counter" align="right"/>
 
-- 🔭 I’m currently working on my problem solving skills and building a product hopefully it will complete soon.
+- 🔭 I’m currently working on my problem solving skills and building hobby projects.
 - 🌱 I’m currently learning Go and Machine Learning.
 - ⚡ Fun fact: I love to watch sci-fi movies and playing FPS/RPG games.
 
