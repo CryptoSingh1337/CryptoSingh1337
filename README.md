@@ -32,8 +32,8 @@
  <code><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" title="JavaScript"/></code>
  <code><img alt="TypeScript" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" title="TypeScript"/></code>
  <code><img alt="Tailwind" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/tailwindcss-icon.svg" title="Tailwind CSS"/></code>
- <code><img alt="Vue" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue 3"/></code>
- <code><img alt="Nuxt" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nuxt-icon.svg" title="Nuxt 3"/></code>
+ <code><img alt="Vue.js" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/vue.svg" title="Vue.js"/></code>
+ <code><img alt="Nuxt.js" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nuxt-icon.svg" title="Nuxt 3"/></code>
  <code><img alt="Go" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/gopher.svg" title="Go"/></code>
  <code><img alt="Node.js" height="40px" width="40px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" title="Node.js"/></code>
  <code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
