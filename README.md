@@ -50,9 +50,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)<br>
-2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-3. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+1. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+2. ⭐ Starred [apache/airflow](https://github.com/apache/airflow)<br>
+3. ⭐ Starred [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)<br>
 4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 <!--RECENT_ACTIVITY:end-->
