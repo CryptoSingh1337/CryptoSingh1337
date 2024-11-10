@@ -50,11 +50,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-3. ⭐ Starred [apache/airflow](https://github.com/apache/airflow)<br>
-4. ⭐ Starred [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)<br>
-5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+3. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+4. ⭐ Starred [apache/airflow](https://github.com/apache/airflow)<br>
+5. ⭐ Starred [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
