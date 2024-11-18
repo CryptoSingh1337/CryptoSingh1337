@@ -50,11 +50,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-3. ❗️ Opened issue [#43](https://github.com/CryptoSingh1337/serpent-clash/issues/43) in [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
-4. ❗️ Opened issue [#42](https://github.com/CryptoSingh1337/serpent-clash/issues/42) in [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
-5. ❗️ Opened issue [#41](https://github.com/CryptoSingh1337/serpent-clash/issues/41) in [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+1. ⬆️ Pushed 2 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+2. 🎉 Merged PR [#44](https://github.com/CryptoSingh1337/serpent-clash/pull/44) in [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+3. ⬆️ Pushed 2 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+4. 🎉 Merged PR [#45](https://github.com/CryptoSingh1337/serpent-clash/pull/45) in [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+5. ⬆️ Pushed 2 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
