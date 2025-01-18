@@ -51,9 +51,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-2. ⭐ Starred [ebitenui/ebitenui](https://github.com/ebitenui/ebitenui)<br>
-3. ⭐ Starred [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten)<br>
-4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+3. ⭐ Starred [ebitenui/ebitenui](https://github.com/ebitenui/ebitenui)<br>
+4. ⭐ Starred [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten)<br>
 5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 <!--RECENT_ACTIVITY:end-->
 
