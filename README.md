@@ -50,8 +50,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unitoftime/ecs](https://github.com/unitoftime/ecs)<br>
-2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+2. ⭐ Starred [unitoftime/ecs](https://github.com/unitoftime/ecs)<br>
 3. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
