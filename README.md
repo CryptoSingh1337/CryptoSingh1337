@@ -50,9 +50,9 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [go-playground/validator](https://github.com/go-playground/validator)<br>
-2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-3. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+2. 💪 Opened PR [#129](https://github.com/CryptoSingh1337/serpent-clash/pull/129) in [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+3. ⭐ Starred [go-playground/validator](https://github.com/go-playground/validator)<br>
 4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 <!--RECENT_ACTIVITY:end-->
