@@ -48,7 +48,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-3. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/drools-workbench](https://github.com/CryptoSingh1337/drools-workbench)<br>
+3. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/drools-workbench](https://github.com/CryptoSingh1337/drools-workbench)<br>
 5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/drools-workbench](https://github.com/CryptoSingh1337/drools-workbench)<br>
 <!--RECENT_ACTIVITY:end-->
