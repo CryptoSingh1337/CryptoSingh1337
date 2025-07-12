@@ -19,7 +19,7 @@
 <a href="https://codechef.com/users/cryptosingh" target="_blank"><img alt="Codechef" height="40px" width="40px" src="./icons/codechef.svg"/></a>
 <br>
 <br>
-<a href="https://github.com/CryptoSingh1337/cryptosingh1337.github.io/raw/master/resume/SaranshKumar-Resume.pdf" download>![](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-blue?style=plastic)</a>
+<a href="https://github.com/CryptoSingh1337/CryptoSingh1337/raw/master/resume/SaranshKumar-Resume.pdf" download>![](https://img.shields.io/badge/Download-R%C3%A9sum%C3%A9-blue?style=plastic)</a>
 
 ##
 
