@@ -49,7 +49,7 @@
 1. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
 2. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
 3. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
-4. ✔️ Closed issue [#136](https://github.com/CryptoSingh1337/serpent-clash/issues/136) in [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
+4. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
 5. ⬆️ Pushed 1 commit(s) to [CryptoSingh1337/serpent-clash](https://github.com/CryptoSingh1337/serpent-clash)<br>
 <!--RECENT_ACTIVITY:end-->
 
