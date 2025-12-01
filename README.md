@@ -43,10 +43,10 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
-2. 💬 Commented on [#153](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/153#issuecomment-3592479999) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
-3. 🔱 Forked [CryptoSingh1337/incubator-kie-drools](https://github.com/CryptoSingh1337/incubator-kie-drools) from [CryptoSingh1337/incubator-kie-drools](https://github.com/CryptoSingh1337/incubator-kie-drools)<br>
-4. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+2. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
+3. 💬 Commented on [#153](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/153#issuecomment-3592479999) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
+4. 🔱 Forked [CryptoSingh1337/incubator-kie-drools](https://github.com/CryptoSingh1337/incubator-kie-drools) from [CryptoSingh1337/incubator-kie-drools](https://github.com/CryptoSingh1337/incubator-kie-drools)<br>
 5. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
