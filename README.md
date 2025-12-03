@@ -45,9 +45,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 2. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-3. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
-4. 💬 Commented on [#153](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/153#issuecomment-3592479999) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
-5. 🔱 Forked [CryptoSingh1337/incubator-kie-drools](https://github.com/CryptoSingh1337/incubator-kie-drools) from [apache/incubator-kie-drools](https://github.com/apache/incubator-kie-drools)<br>
+3. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+4. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
+5. 💬 Commented on [#153](https://github.com/CryptoSingh1337/cryptosingh1337.github.io/pull/153#issuecomment-3592479999) in [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
