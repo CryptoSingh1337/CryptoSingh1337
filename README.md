@@ -46,7 +46,7 @@
 1. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 2. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 3. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-4. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/maven-plugin](https://github.com/CryptoSingh1337/maven-plugin)<br>
+4. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 5. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/maven-plugin](https://github.com/CryptoSingh1337/maven-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
