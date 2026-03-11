@@ -44,9 +44,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-2. 🔱 Forked [CryptoSingh1337/opencode](https://github.com/CryptoSingh1337/opencode) from [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-3. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-4. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+2. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+3. 🔱 Forked [CryptoSingh1337/opencode](https://github.com/CryptoSingh1337/opencode) from [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+4. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
 5. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 <!--RECENT_ACTIVITY:end-->
 
