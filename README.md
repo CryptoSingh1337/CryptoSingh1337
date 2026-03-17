@@ -43,11 +43,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
-2. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+1. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
+2. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/cryptosingh1337.github.io](https://github.com/CryptoSingh1337/cryptosingh1337.github.io)<br>
 3. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 4. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
-5. 💬 Commented on [#1086](https://github.com/sidebase/nuxt-auth/issues/1086#issuecomment-4057000619) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)<br>
+5. ⬆️ Pushed undefined commit(s) to [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
