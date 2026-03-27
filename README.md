@@ -46,9 +46,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 245.6 kB Used in GitHub's Storage 
+> 📦 245.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,259 Contributions in the Year 2026
+> 🏆 1,337 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,10 +59,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1498 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-🌆 Daytime                21047 commits       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-🌃 Evening                32764 commits       ██████████░░░░░░░░░░░░░░░   39.56 % 
-🌙 Night                  27504 commits       ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌞 Morning                1558 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+🌆 Daytime                22061 commits       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+🌃 Evening                34504 commits       ██████████░░░░░░░░░░░░░░░   39.50 % 
+🌙 Night                  29222 commits       ████████░░░░░░░░░░░░░░░░░   33.46 % 
 ```
 
 
@@ -72,21 +72,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Vue.js                   10 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-TypeScript               8 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Java                     7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-YAML                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Markdown                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Vue.js                   11 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.69 % 
+TypeScript               7 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Java                     6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+YAML                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-IntelliJ IDEA            35 hrs 26 mins      █████████████████████████   98.27 % 
-Sublime Text             37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+IntelliJ IDEA            34 hrs 6 mins       █████████████████████████   98.38 % 
+Sublime Text             33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  29 hrs 39 mins      █████████████████████░░░░   82.22 % 
-Mac                      6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Windows                  29 hrs 37 mins      █████████████████████░░░░   85.46 % 
+Mac                      5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 ```
 
 
- Last Updated on 26/03/2026 03:26:51 UTC
+ Last Updated on 27/03/2026 03:30:25 UTC
 <!--END_SECTION:waka-->
