@@ -60,7 +60,7 @@
 
 ```text
 🌞 Morning                1558 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-🌆 Daytime                22073 commits       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+🌆 Daytime                22077 commits       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
 🌃 Evening                34506 commits       ██████████░░░░░░░░░░░░░░░   39.50 % 
 🌙 Night                  29222 commits       ████████░░░░░░░░░░░░░░░░░   33.45 % 
 ```
@@ -72,22 +72,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-TypeScript               5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Java                     5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-YAML                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Java                     5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Vue.js                   5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+TypeScript               4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-IntelliJ IDEA            26 hrs 55 mins      █████████████████████████   98.63 % 
-Sublime Text             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Zed                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+IntelliJ IDEA            21 hrs 19 mins      █████████████████████████   98.28 % 
+Sublime Text             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Zed                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  21 hrs 48 mins      ████████████████████░░░░░   79.88 % 
-Mac                      5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Windows                  15 hrs 19 mins      ██████████████████░░░░░░░   70.57 % 
+Mac                      6 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
 ```
 
 
- Last Updated on 29/03/2026 03:36:25 UTC
+ Last Updated on 30/03/2026 03:38:18 UTC
 <!--END_SECTION:waka-->
