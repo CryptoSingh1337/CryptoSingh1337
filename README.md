@@ -72,24 +72,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     16 hrs 10 mins      ██████████████████░░░░░░░   73.67 % 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-YAML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-XML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Go                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Java                     19 hrs 50 mins      ███████████████████░░░░░░   75.44 % 
+Markdown                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Go                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 48 mins      ████████████████████████░   94.81 % 
-Sublime Text             55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-OpenCode                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Zed                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+IntelliJ IDEA            25 hrs 11 mins      ████████████████████████░   95.78 % 
+Sublime Text             55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+OpenCode                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      15 hrs 49 mins      ██████████████████░░░░░░░   72.13 % 
-Windows                  4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Linux                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Mac                      21 hrs 18 mins      ████████████████████░░░░░   80.99 % 
+Windows                  3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Linux                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
- Last Updated on 10/04/2026 03:39:58 UTC
+ Last Updated on 11/04/2026 03:02:13 UTC
 <!--END_SECTION:waka-->
