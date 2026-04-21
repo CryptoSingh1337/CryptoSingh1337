@@ -72,22 +72,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     26 hrs 23 mins      ███████████████████░░░░░░   75.01 % 
-YAML                     3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-XML                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Java                     25 hrs 17 mins      ███████████████████░░░░░░   75.25 % 
+YAML                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+XML                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-IntelliJ IDEA            34 hrs 57 mins      █████████████████████████   99.33 % 
-Sublime Text             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+IntelliJ IDEA            33 hrs 23 mins      █████████████████████████   99.30 % 
+Sublime Text             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 24 mins      ███████████████████░░░░░░   75.05 % 
-Windows                  8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Mac                      23 hrs 58 mins      ██████████████████░░░░░░░   71.33 % 
+Windows                  9 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
 ```
 
 
- Last Updated on 20/04/2026 03:51:18 UTC
+ Last Updated on 21/04/2026 03:47:19 UTC
 <!--END_SECTION:waka-->
