@@ -48,11 +48,11 @@
 
 > 📦 245.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,357 Contributions in the Year 2026
+> 🏆 1,359 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 60 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
@@ -62,7 +62,7 @@
 🌞 Morning                926 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 🌆 Daytime                11089 commits       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
 🌃 Evening                17220 commits       ██████████░░░░░░░░░░░░░░░   39.94 % 
-🌙 Night                  13879 commits       ████████░░░░░░░░░░░░░░░░░   32.19 % 
+🌙 Night                  13880 commits       ████████░░░░░░░░░░░░░░░░░   32.19 % 
 ```
 
 
@@ -72,20 +72,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     16 hrs 38 mins      ███████████████░░░░░░░░░░   59.94 % 
-YAML                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-TypeScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Vue                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Java                     17 hrs 7 mins       ███████████████░░░░░░░░░░   61.19 % 
+YAML                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+TypeScript               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Vue                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Text                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            27 hrs 46 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            27 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 45 mins      ████████████████████░░░░░   81.93 % 
-Windows                  5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Mac                      22 hrs 41 mins      ████████████████████░░░░░   81.03 % 
+Windows                  5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
 ```
 
 
- Last Updated on 24/04/2026 03:47:30 UTC
+ Last Updated on 25/04/2026 03:35:29 UTC
 <!--END_SECTION:waka-->
