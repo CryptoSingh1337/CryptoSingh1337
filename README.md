@@ -72,23 +72,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     17 hrs 17 mins      █████████████░░░░░░░░░░░░   51.36 % 
-Markdown                 5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Vue                      4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Other                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Java                     16 hrs 4 mins       ████████████░░░░░░░░░░░░░   49.62 % 
+Markdown                 5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Vue                      4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Other                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-IntelliJ IDEA            22 hrs 55 mins      █████████████████░░░░░░░░   68.07 % 
-Unknown Editor           9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Sublime Text             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Claude Code              32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+IntelliJ IDEA            22 hrs 14 mins      █████████████████░░░░░░░░   68.66 % 
+Unknown Editor           8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+Claude Code              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Sublime Text             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 💻 Operating System: 
-Mac                      23 hrs 58 mins      ██████████████████░░░░░░░   71.19 % 
-Windows                  9 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Mac                      22 hrs 26 mins      █████████████████░░░░░░░░   69.28 % 
+Windows                  9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
 ```
 
 
- Last Updated on 20/05/2026 04:33:09 UTC
+ Last Updated on 21/05/2026 04:45:24 UTC
 <!--END_SECTION:waka-->
