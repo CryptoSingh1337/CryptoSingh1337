@@ -56,6 +56,38 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 29/05/2026 04:33:35 UTC
+```text
+🌞 Morning                1010 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+🌆 Daytime                11554 commits       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+🌃 Evening                17866 commits       ██████████░░░░░░░░░░░░░░░   39.98 % 
+🌙 Night                  14262 commits       ████████░░░░░░░░░░░░░░░░░   31.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     26 hrs 4 mins       ███████████████████████░░   90.45 % 
+Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+IntelliJ IDEA            25 hrs 40 mins      ██████████████████████░░░   89.07 % 
+Unknown Editor           2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Claude Code              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+💻 Operating System: 
+Mac                      28 hrs 49 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 04:22:17 UTC
 <!--END_SECTION:waka-->
