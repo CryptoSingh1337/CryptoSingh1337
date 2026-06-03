@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 244.7 kB Used in GitHub's Storage 
+> 📦 244.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,362 Contributions in the Year 2026
  > 
@@ -72,22 +72,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     29 hrs 49 mins      ███████████████████████░░   91.41 % 
-Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Vue                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Java                     26 hrs 48 mins      █████████████████████░░░░   85.29 % 
+Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Docker                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Vue                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-IntelliJ IDEA            30 hrs 9 mins       ███████████████████████░░   92.42 % 
-Claude Code              1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Unknown Editor           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+IntelliJ IDEA            28 hrs 56 mins      ███████████████████████░░   92.09 % 
+Claude Code              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Unknown Editor           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Sublime Text             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Mac                      31 hrs 42 mins      ████████████████████████░   97.15 % 
-Windows                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Mac                      30 hrs 30 mins      ████████████████████████░   97.04 % 
+Windows                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 
 
- Last Updated on 02/06/2026 04:57:49 UTC
+ Last Updated on 03/06/2026 05:08:51 UTC
 <!--END_SECTION:waka-->
