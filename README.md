@@ -72,22 +72,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     17 hrs 7 mins       ████████████████████░░░░░   81.29 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Vue                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-SQL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Java                     16 hrs 16 mins      ██████████████████████░░░   87.10 % 
+SQL                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+XML                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 10 mins      ███████████████████████░░   91.05 % 
-Claude Code              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Sublime Text             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+IntelliJ IDEA            17 hrs 57 mins      ████████████████████████░   96.06 % 
+Claude Code              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Sublime Text             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Mac                      20 hrs 7 mins       ████████████████████████░   95.49 % 
-Windows                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Mac                      17 hrs 42 mins      ████████████████████████░   94.76 % 
+Windows                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 
 
- Last Updated on 12/06/2026 05:05:31 UTC
+ Last Updated on 13/06/2026 04:47:10 UTC
 <!--END_SECTION:waka-->
