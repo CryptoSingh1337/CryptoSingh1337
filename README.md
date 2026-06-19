@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 244.9 kB Used in GitHub's Storage 
+> 📦 245.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,362 Contributions in the Year 2026
  > 
@@ -72,20 +72,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     14 hrs 59 mins      ██████████████████████░░░   87.13 % 
-XML                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Java                     12 hrs 12 mins      █████████████████████░░░░   82.83 % 
+XML                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 57 mins      █████████████████████████   98.56 % 
-Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+IntelliJ IDEA            14 hrs 29 mins      █████████████████████████   98.32 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Mac                      17 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 21 mins      ████████████████████████░   97.46 % 
+Windows                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 
- Last Updated on 18/06/2026 05:03:25 UTC
+ Last Updated on 19/06/2026 05:24:35 UTC
 <!--END_SECTION:waka-->
