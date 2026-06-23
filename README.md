@@ -72,22 +72,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     17 hrs 16 mins      ███████████████████░░░░░░   76.27 % 
-XML                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Java                     17 hrs 49 mins      ███████████████████░░░░░░   76.69 % 
+XML                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+SQL                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 19 mins      ████████████████████████░   94.10 % 
-Opencode Cli             1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+IntelliJ IDEA            20 hrs 24 mins      ██████████████████████░░░   87.82 % 
+Opencode Cli             2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Mac                      22 hrs 16 mins      █████████████████████████   98.35 % 
-Windows                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Mac                      22 hrs 51 mins      █████████████████████████   98.39 % 
+Windows                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
- Last Updated on 22/06/2026 05:29:07 UTC
+ Last Updated on 23/06/2026 04:22:57 UTC
 <!--END_SECTION:waka-->
