@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 245.5 kB Used in GitHub's Storage 
+> 📦 245.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,372 Contributions in the Year 2026
  > 
@@ -72,22 +72,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     16 hrs 12 mins      █████████████████░░░░░░░░   69.41 % 
-Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-XML                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Java                     19 hrs 31 mins      ██████████████████░░░░░░░   70.45 % 
+Markdown                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Python                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+XML                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 37 mins      ████████████████████░░░░░   79.73 % 
-Opencode Cli             3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-OpenCode                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+IntelliJ IDEA            21 hrs 46 mins      ████████████████████░░░░░   78.53 % 
+Opencode Cli             4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+OpenCode                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Claude Code              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Mac                      20 hrs 33 mins      ██████████████████████░░░   88.02 % 
-Windows                  2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Mac                      23 hrs 27 mins      █████████████████████░░░░   84.65 % 
+Windows                  4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 ```
 
 
- Last Updated on 25/06/2026 04:28:53 UTC
+ Last Updated on 26/06/2026 04:29:09 UTC
 <!--END_SECTION:waka-->
