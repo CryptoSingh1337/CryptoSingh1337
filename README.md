@@ -46,9 +46,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 245.4 kB Used in GitHub's Storage 
+> 📦 245.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,372 Contributions in the Year 2026
+> 🏆 1,380 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,10 +59,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1047 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-🌆 Daytime                11700 commits       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-🌃 Evening                18052 commits       ██████████░░░░░░░░░░░░░░░   40.01 % 
-🌙 Night                  14315 commits       ████████░░░░░░░░░░░░░░░░░   31.73 % 
+🌞 Morning                899 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+🌆 Daytime                11120 commits       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌃 Evening                17344 commits       ██████████░░░░░░░░░░░░░░░   39.90 % 
+🌙 Night                  14103 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
 ```
 
 
@@ -72,23 +72,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     19 hrs 31 mins      ██████████████████░░░░░░░   70.45 % 
-Markdown                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Python                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-XML                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Java                     21 hrs 22 mins      █████████████████░░░░░░░░   67.04 % 
+Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Python                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+SQL                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 46 mins      ████████████████████░░░░░   78.53 % 
-Opencode Cli             4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-OpenCode                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Claude Code              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+IntelliJ IDEA            23 hrs 4 mins       ██████████████████░░░░░░░   72.40 % 
+Opencode Cli             5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Claude Code              2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      23 hrs 27 mins      █████████████████████░░░░   84.65 % 
-Windows                  4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Mac                      25 hrs 1 min        ████████████████████░░░░░   78.52 % 
+Windows                  6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
 ```
 
 
- Last Updated on 26/06/2026 04:29:09 UTC
+ Last Updated on 27/06/2026 04:15:47 UTC
 <!--END_SECTION:waka-->
