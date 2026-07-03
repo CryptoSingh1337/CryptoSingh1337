@@ -72,24 +72,24 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     23 hrs 54 mins      ██████████████░░░░░░░░░░░   56.77 % 
-Markdown                 4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-TypeScript               3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Vue                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-SQL                      2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Java                     20 hrs 33 mins      ██████████████░░░░░░░░░░░   54.61 % 
+TypeScript               3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Markdown                 3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Vue                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-IntelliJ IDEA            28 hrs 53 mins      █████████████████░░░░░░░░   68.58 % 
-Claude Code              9 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Opencode Cli             2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Sublime Text             35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+IntelliJ IDEA            25 hrs 46 mins      █████████████████░░░░░░░░   68.43 % 
+Claude Code              9 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Opencode Cli             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Sublime Text             35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Mac                      26 hrs 13 mins      ████████████████░░░░░░░░░   62.25 % 
-Windows                  15 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   37.75 % 
+Mac                      23 hrs 35 mins      ████████████████░░░░░░░░░   62.64 % 
+Windows                  14 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.36 % 
 ```
 
 
- Last Updated on 02/07/2026 04:21:15 UTC
+ Last Updated on 03/07/2026 04:06:06 UTC
 <!--END_SECTION:waka-->
