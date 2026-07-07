@@ -48,7 +48,7 @@
 
 > 📦 246.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,387 Contributions in the Year 2026
+> 🏆 1,388 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -61,7 +61,7 @@
 ```text
 🌞 Morning                973 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 🌆 Daytime                11421 commits       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌃 Evening                17720 commits       ██████████░░░░░░░░░░░░░░░   39.98 % 
+🌃 Evening                17721 commits       ██████████░░░░░░░░░░░░░░░   39.98 % 
 🌙 Night                  14209 commits       ████████░░░░░░░░░░░░░░░░░   32.06 % 
 ```
 
@@ -72,24 +72,23 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     14 hrs 25 mins      ████████████████░░░░░░░░░   65.75 % 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-SQL                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Java                     12 hrs 39 mins      ████████████████░░░░░░░░░   63.88 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Vue                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 16 mins      ████████████████████░░░░░   78.70 % 
-Claude Code              3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Sublime Text             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+IntelliJ IDEA            16 hrs 11 mins      ████████████████████░░░░░   81.74 % 
+Claude Code              2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Sublime Text             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Mac                      20 hrs 57 mins      ████████████████████████░   95.46 % 
-Windows                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Mac                      18 hrs 38 mins      ████████████████████████░   94.09 % 
+Windows                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 ```
 
 
- Last Updated on 06/07/2026 04:26:02 UTC
+ Last Updated on 07/07/2026 04:17:11 UTC
 <!--END_SECTION:waka-->
