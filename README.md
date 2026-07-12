@@ -48,7 +48,7 @@
 
 > 📦 246.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,388 Contributions in the Year 2026
+> 🏆 1,389 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -60,7 +60,7 @@
 
 ```text
 🌞 Morning                973 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-🌆 Daytime                11421 commits       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌆 Daytime                11422 commits       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
 🌃 Evening                17721 commits       ██████████░░░░░░░░░░░░░░░   39.98 % 
 🌙 Night                  14209 commits       ████████░░░░░░░░░░░░░░░░░   32.06 % 
 ```
@@ -72,22 +72,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     11 hrs 15 mins      █████████████████░░░░░░░░   66.04 % 
-YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-JavaScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-XML                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Java                     11 hrs 50 mins      █████████████████░░░░░░░░   67.14 % 
+YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+JavaScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+XML                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 13 mins      ██████████████████░░░░░░░   71.69 % 
-Claude Code              3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Sublime Text             1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+IntelliJ IDEA            12 hrs 48 mins      ██████████████████░░░░░░░   72.61 % 
+Claude Code              3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Sublime Text             1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 💻 Operating System: 
-Mac                      15 hrs 8 mins       ██████████████████████░░░   88.80 % 
-Windows                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Mac                      15 hrs 43 mins      ██████████████████████░░░   89.16 % 
+Windows                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 ```
 
 
- Last Updated on 11/07/2026 03:37:18 UTC
+ Last Updated on 12/07/2026 03:47:35 UTC
 <!--END_SECTION:waka-->
