@@ -72,21 +72,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     16 hrs 1 min        █████████████████████░░░░   85.50 % 
-Markdown                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     14 hrs 50 mins      ██████████████████████░░░   86.02 % 
+Markdown                 1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 53 mins      ████████████████████░░░░░   79.52 % 
-Claude Code              3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+IntelliJ IDEA            13 hrs 48 mins      ████████████████████░░░░░   80.07 % 
+Claude Code              3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 
 💻 Operating System: 
-Mac                      17 hrs 42 mins      ████████████████████████░   94.54 % 
-Windows                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Mac                      16 hrs              ███████████████████████░░   92.79 % 
+Windows                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 
 
- Last Updated on 18/07/2026 03:25:21 UTC
+ Last Updated on 19/07/2026 03:45:18 UTC
 <!--END_SECTION:waka-->
