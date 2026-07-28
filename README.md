@@ -44,11 +44,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2042%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 246.4 kB Used in GitHub's Storage 
+> 📦 245.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,396 Contributions in the Year 2026
+> 🏆 1,400 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -59,10 +61,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1084 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-🌆 Daytime                11873 commits       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-🌃 Evening                18297 commits       ██████████░░░░░░░░░░░░░░░   40.10 % 
-🌙 Night                  14369 commits       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+🌞 Morning                1121 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+🌆 Daytime                12023 commits       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+🌃 Evening                18488 commits       ██████████░░░░░░░░░░░░░░░   40.14 % 
+🌙 Night                  14426 commits       ████████░░░░░░░░░░░░░░░░░   31.32 % 
 ```
 
 
@@ -72,22 +74,44 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     14 hrs 14 mins      ███████████████░░░░░░░░░░   60.25 % 
-Markdown                 2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Python                   2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Docker                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Java                     11 hrs 20 mins      █████████████░░░░░░░░░░░░   53.02 % 
+Markdown                 2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Python                   2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Docker                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 6 mins       █████████████████░░░░░░░░   68.13 % 
-Claude Code              7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
-Sublime Text             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+IntelliJ IDEA            12 hrs 59 mins      ███████████████░░░░░░░░░░   60.67 % 
+Claude Code              8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
+Sublime Text             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      18 hrs 7 mins       ███████████████████░░░░░░   76.66 % 
-Windows                  5 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Mac                      15 hrs 45 mins      ██████████████████░░░░░░░   73.66 % 
+Windows                  5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs (51.45%)
+
+✍️ 6,968 lines written by AI, 1,899 lines written by hand (78.58% AI-written)
+
+🔤 182,361,425 Input Tokens, 722,991 Output Tokens
+
+💵 $364.83 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 53 AI Prompts
+
+Sonnet                   2,120 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 78.58% of written lines came from AI
+📄 Detailed Prompter — average 505 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 82.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 04:01:47 UTC
+ Last Updated on 28/07/2026 03:34:26 UTC
 <!--END_SECTION:waka-->
