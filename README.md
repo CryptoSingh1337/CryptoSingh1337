@@ -74,46 +74,46 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
-Python                   3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Markdown                 3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Java                     4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+Python                   3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Markdown                 3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 19 mins       █████████████░░░░░░░░░░░░   53.46 % 
-Claude Code              6 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.50 % 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              6 hrs 13 mins       █████████████░░░░░░░░░░░░   50.49 % 
+IntelliJ IDEA            6 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.47 % 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      8 hrs 52 mins       ████████████████░░░░░░░░░   64.76 % 
-Windows                  4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
+Mac                      7 hrs 30 mins       ███████████████░░░░░░░░░░   60.87 % 
+Windows                  4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 24 mins (68.69%)
+⏱ AI Coding Time: 9 hrs 11 mins (74.42%)
 
-✍️ 8,201 lines written by AI, 594 lines written by hand (93.25% AI-written)
+✍️ 7,256 lines written by AI, 589 lines written by hand (92.49% AI-written)
 
-🔤 4,798,881 Input Tokens, 590,965 Output Tokens
+🔤 4,443,295 Input Tokens, 587,445 Output Tokens
 
-💵 $141.35 Estimated AI Cost This Week
+💵 $139.45 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 118 AI Prompts
+🧠 23 AI Sessions, 116 AI Prompts
 
-Opus                     7,511 lines         █████████████████████░░░░   84.23 % 
-Fable                    1,406 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Opus                     6,566 lines         █████████████████████░░░░   82.36 % 
+Fable                    1,406 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.25% of written lines came from AI
-📄 Detailed Prompter — average 1,008 characters per prompt
+🤖 AI-Driven — 92.49% of written lines came from AI
+📄 Detailed Prompter — average 1,015 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.65% of changed lines were hand-edited
+🚀 High AI Trust — 7.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 02:42:46 UTC
+ Last Updated on 14/08/2026 02:42:30 UTC
 <!--END_SECTION:waka-->
