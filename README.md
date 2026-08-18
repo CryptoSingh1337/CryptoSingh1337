@@ -44,13 +44,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 245.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,439 Contributions in the Year 2026
+> 🏆 1,441 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -63,7 +63,7 @@
 ```text
 🌞 Morning                1141 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 🌆 Daytime                12028 commits       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-🌃 Evening                18561 commits       ██████████░░░░░░░░░░░░░░░   40.17 % 
+🌃 Evening                18563 commits       ██████████░░░░░░░░░░░░░░░   40.17 % 
 🌙 Night                  14481 commits       ████████░░░░░░░░░░░░░░░░░   31.34 % 
 ```
 
@@ -74,45 +74,45 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.97 % 
-Markdown                 4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Python                   2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Java                     5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
+Python                   4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Markdown                 3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 16 mins       ███████████████░░░░░░░░░░   58.76 % 
-Claude Code              5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
-Sublime Text             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+IntelliJ IDEA            9 hrs 35 mins       ███████████████░░░░░░░░░░   61.42 % 
+Claude Code              5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
+Sublime Text             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Windows                  7 hrs 19 mins       █████████████░░░░░░░░░░░░   52.08 % 
-Mac                      6 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.92 % 
+Windows                  9 hrs 4 mins        ███████████████░░░░░░░░░░   58.10 % 
+Mac                      6 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 19 mins (66.24%)
+⏱ AI Coding Time: 8 hrs 57 mins (57.41%)
 
-✍️ 5,674 lines written by AI, 2,602 lines written by hand (68.56% AI-written)
+✍️ 5,299 lines written by AI, 2,438 lines written by hand (68.49% AI-written)
 
-🔤 2,969,428 Input Tokens, 491,588 Output Tokens
+🔤 2,405,151 Input Tokens, 502,551 Output Tokens
 
-💵 $94.65 Estimated AI Cost This Week
+💵 $70.35 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 91 AI Prompts
+🧠 19 AI Sessions, 98 AI Prompts
 
-Opus                     6,307 lines         █████████████████████████   100.00 % 
+Opus                     5,878 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.56% of written lines came from AI
-📚 Verbose Prompter — average 1,604 characters per prompt
+🤖 AI-Driven — 68.49% of written lines came from AI
+📚 Verbose Prompter — average 1,523 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 29.63% of changed lines were hand-edited
+🚀 High AI Trust — 29.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 01:57:00 UTC
+ Last Updated on 18/08/2026 01:50:25 UTC
 <!--END_SECTION:waka-->
