@@ -74,28 +74,28 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     14 hrs 7 mins       ████████████████░░░░░░░░░   65.98 % 
-Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-XML                      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Java                     14 hrs 27 mins      █████████████████░░░░░░░░   66.20 % 
+Markdown                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+XML                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 hrs              ███████████████░░░░░░░░░░   60.78 % 
-Claude Code              8 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-Sublime Text             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+IntelliJ IDEA            13 hrs 26 mins      ███████████████░░░░░░░░░░   61.56 % 
+Claude Code              8 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.65 % 
+Sublime Text             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Mac                      21 hrs 12 mins      █████████████████████████   99.13 % 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Mac                      21 hrs 39 mins      █████████████████████████   99.15 % 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 45 mins (54.95%)
+⏱ AI Coding Time: 11 hrs 45 mins (53.85%)
 
-✍️ 2,261 lines written by AI, 7,092 lines written by hand (24.17% AI-written)
+✍️ 2,261 lines written by AI, 7,124 lines written by hand (24.09% AI-written)
 
 🔤 3,190,171 Input Tokens, 811,616 Output Tokens
 
@@ -107,12 +107,12 @@ Opus                     1,649 lines         ███████████�
 Sonnet                   614 lines           ███████░░░░░░░░░░░░░░░░░░   27.13 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.17% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 24.09% of written lines came from AI
 📄 Detailed Prompter — average 944 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 96.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 04:42:00 UTC
+ Last Updated on 14/09/2026 04:51:40 UTC
 <!--END_SECTION:waka-->
