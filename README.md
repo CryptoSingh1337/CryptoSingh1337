@@ -44,7 +44,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2037%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,42 +74,42 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     10 hrs 35 mins      ██████████████████░░░░░░░   70.01 % 
-Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Python                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Java                     12 hrs 28 mins      █████████████████░░░░░░░░   68.54 % 
+Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 34 mins       ██████████████░░░░░░░░░░░   56.67 % 
-Claude Code              6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
+IntelliJ IDEA            10 hrs 18 mins      ██████████████░░░░░░░░░░░   56.65 % 
+Claude Code              7 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
 
 💻 Operating System: 
-Mac                      15 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 52 mins (65.29%)
+⏱ AI Coding Time: 11 hrs 20 mins (62.3%)
 
-✍️ 6,348 lines written by AI, 644 lines written by hand (90.79% AI-written)
+✍️ 7,512 lines written by AI, 647 lines written by hand (92.07% AI-written)
 
-🔤 2,856,005 Input Tokens, 665,006 Output Tokens
+🔤 3,661,438 Input Tokens, 862,122 Output Tokens
 
-💵 $110.79 Estimated AI Cost This Week
+💵 $125.09 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 60 AI Prompts
+🧠 16 AI Sessions, 69 AI Prompts
 
-Opus                     6,499 lines         █████████████████████████   100.00 % 
+Opus                     7,670 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.79% of written lines came from AI
-📚 Verbose Prompter — average 2,194 characters per prompt
+🤖 AI-Driven — 92.07% of written lines came from AI
+📚 Verbose Prompter — average 2,547 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 96.89% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 05:19:15 UTC
+ Last Updated on 29/09/2026 05:44:56 UTC
 <!--END_SECTION:waka-->
