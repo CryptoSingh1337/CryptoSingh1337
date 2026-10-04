@@ -44,7 +44,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2020%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,43 +74,43 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.61 % 
-Markdown                 2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-TypeScript               1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Vue                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Java                     5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.54 % 
+Markdown                 2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+TypeScript               1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Vue                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 47 mins       █████████████░░░░░░░░░░░░   52.95 % 
-IntelliJ IDEA            6 hrs 1 min         ████████████░░░░░░░░░░░░░   47.05 % 
+Claude Code              7 hrs 8 mins        █████████████░░░░░░░░░░░░   52.75 % 
+IntelliJ IDEA            6 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.25 % 
 
 💻 Operating System: 
-Mac                      12 hrs 49 mins      █████████████████████████   99.98 % 
+Mac                      13 hrs 31 mins      █████████████████████████   99.98 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 48 mins (60.87%)
+⏱ AI Coding Time: 8 hrs 12 mins (60.62%)
 
-✍️ 7,816 lines written by AI, 1,979 lines written by hand (79.8% AI-written)
+✍️ 9,455 lines written by AI, 1,979 lines written by hand (82.69% AI-written)
 
-🔤 4,631,980 Input Tokens, 856,418 Output Tokens
+🔤 4,959,943 Input Tokens, 953,179 Output Tokens
 
-💵 $83.53 Estimated AI Cost This Week
+💵 $89.50 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 51 AI Prompts
+🧠 16 AI Sessions, 59 AI Prompts
 
-Opus                     7,915 lines         █████████████████████████   100.00 % 
+Opus                     9,555 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.8% of written lines came from AI
-📚 Verbose Prompter — average 1,894 characters per prompt
+🤖 AI-Driven — 82.69% of written lines came from AI
+📚 Verbose Prompter — average 2,211 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 20.32% of changed lines were hand-edited
+🚀 High AI Trust — 17.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 05:12:47 UTC
+ Last Updated on 04/10/2026 05:48:35 UTC
 <!--END_SECTION:waka-->
