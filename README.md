@@ -48,7 +48,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 246.2 kB Used in GitHub's Storage 
+> 📦 246.3 kB Used in GitHub's Storage 
  > 
 > 🏆 1,466 Contributions in the Year 2026
  > 
@@ -74,43 +74,43 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     7 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
-Markdown                 3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Java                     6 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
+Markdown                 2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 44 mins      ███████████████░░░░░░░░░░   59.57 % 
-IntelliJ IDEA            7 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
+Claude Code              9 hrs 2 mins        ██████████████░░░░░░░░░░░   54.96 % 
+IntelliJ IDEA            7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.00 % 
 Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      19 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 53 mins (70.53%)
+⏱ AI Coding Time: 11 hrs 10 mins (67.93%)
 
-✍️ 14,381 lines written by AI, 660 lines written by hand (95.61% AI-written)
+✍️ 13,752 lines written by AI, 641 lines written by hand (95.55% AI-written)
 
-🔤 6,442,191 Input Tokens, 1,977,337 Output Tokens
+🔤 5,377,514 Input Tokens, 1,716,215 Output Tokens
 
-💵 $125.54 Estimated AI Cost This Week
+💵 $102.88 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 91 AI Prompts
+🧠 24 AI Sessions, 69 AI Prompts
 
-Opus                     14,676 lines        █████████████████████████   100.00 % 
+Opus                     13,947 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.61% of written lines came from AI
-📚 Verbose Prompter — average 2,677 characters per prompt
+🤖 AI-Driven — 95.55% of written lines came from AI
+📚 Verbose Prompter — average 2,952 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 89.06% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 05:41:25 UTC
+ Last Updated on 12/10/2026 05:52:25 UTC
 <!--END_SECTION:waka-->
