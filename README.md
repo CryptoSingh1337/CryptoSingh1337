@@ -44,13 +44,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 248.2 kB Used in GitHub's Storage 
+> 📦 248.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,499 Contributions in the Year 2026
+> 🏆 1,502 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -63,7 +63,7 @@
 ```text
 🌞 Morning                1141 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 🌆 Daytime                12036 commits       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-🌃 Evening                18584 commits       ██████████░░░░░░░░░░░░░░░   40.17 % 
+🌃 Evening                18587 commits       ██████████░░░░░░░░░░░░░░░   40.17 % 
 🌙 Night                  14505 commits       ████████░░░░░░░░░░░░░░░░░   31.35 % 
 ```
 
@@ -74,44 +74,44 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     7 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Go                       7 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-Markdown                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Text                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JSON                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Go                       7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Java                     7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Markdown                 3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Text                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+JSON                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 9 mins       ███████████████░░░░░░░░░░   61.15 % 
-Claude Code              10 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.85 % 
+IntelliJ IDEA            17 hrs 10 mins      ████████████████░░░░░░░░░   62.22 % 
+Claude Code              10 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.78 % 
 
 💻 Operating System: 
-Mac                      19 hrs 19 mins      ██████████████████░░░░░░░   73.18 % 
-Windows                  7 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Mac                      19 hrs 47 mins      ██████████████████░░░░░░░   71.73 % 
+Windows                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 28 mins (43.41%)
+⏱ AI Coding Time: 11 hrs 38 mins (42.18%)
 
-✍️ 7,871 lines written by AI, 7,290 lines written by hand (51.92% AI-written)
+✍️ 7,912 lines written by AI, 7,482 lines written by hand (51.4% AI-written)
 
-🔤 7,423,422 Input Tokens, 1,640,706 Output Tokens
+🔤 7,673,994 Input Tokens, 1,692,019 Output Tokens
 
-💵 $153.75 Estimated AI Cost This Week
+💵 $157.51 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 107 AI Prompts
+🧠 29 AI Sessions, 112 AI Prompts
 
-Opus                     7,022 lines         █████████████████████░░░░   82.54 % 
-Fable                    1,485 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Opus                     7,063 lines         █████████████████████░░░░   82.63 % 
+Fable                    1,485 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.92% of written lines came from AI
-📚 Verbose Prompter — average 1,863 characters per prompt
+⚖️ Balanced with AI — 51.4% of written lines came from AI
+📚 Verbose Prompter — average 1,801 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.23% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.22% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 04:14:23 UTC
+ Last Updated on 18/10/2026 04:23:50 UTC
 <!--END_SECTION:waka-->
