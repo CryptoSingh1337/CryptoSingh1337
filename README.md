@@ -48,9 +48,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 248.5 kB Used in GitHub's Storage 
+> 📦 248.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,512 Contributions in the Year 2026
+> 🏆 1,533 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -61,10 +61,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1141 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-🌆 Daytime                12036 commits       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-🌃 Evening                18590 commits       ██████████░░░░░░░░░░░░░░░   40.17 % 
-🌙 Night                  14512 commits       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌞 Morning                1141 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+🌆 Daytime                12043 commits       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌃 Evening                18608 commits       ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌙 Night                  14512 commits       ████████░░░░░░░░░░░░░░░░░   31.34 % 
 ```
 
 
@@ -74,45 +74,45 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       10 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   34.11 % 
-Java                     5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Markdown                 4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Text                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Python                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Go                       16 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.69 % 
+Markdown                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Java                     3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+TypeScript               2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Text                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 24 mins      █████████████████░░░░░░░░   67.38 % 
-Claude Code              10 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Sublime Text             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+IntelliJ IDEA            32 hrs 9 mins       ████████████████████░░░░░   80.57 % 
+Claude Code              7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Sublime Text             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      19 hrs 39 mins      ███████████████░░░░░░░░░░   61.86 % 
-Windows                  12 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
+Windows                  24 hrs 13 mins      ███████████████░░░░░░░░░░   60.69 % 
+Mac                      15 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 25 mins (35.96%)
+⏱ AI Coding Time: 8 hrs 30 mins (21.33%)
 
-✍️ 8,945 lines written by AI, 8,028 lines written by hand (52.7% AI-written)
+✍️ 6,821 lines written by AI, 9,684 lines written by hand (41.33% AI-written)
 
-🔤 7,679,086 Input Tokens, 1,776,365 Output Tokens
+🔤 4,696,451 Input Tokens, 1,249,748 Output Tokens
 
-💵 $154.06 Estimated AI Cost This Week
+💵 $88.95 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 111 AI Prompts
+🧠 22 AI Sessions, 96 AI Prompts
 
-Opus                     7,868 lines         █████████████████████░░░░   84.12 % 
-Fable                    1,485 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Opus                     7,214 lines         █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.7% of written lines came from AI
-📚 Verbose Prompter — average 1,968 characters per prompt
+⚖️ Balanced with AI — 41.33% of written lines came from AI
+📚 Verbose Prompter — average 1,796 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.24% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 04:45:20 UTC
+ Last Updated on 21/10/2026 04:36:30 UTC
 <!--END_SECTION:waka-->
