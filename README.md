@@ -44,13 +44,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-309%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 253.6 kB Used in GitHub's Storage 
+> 📦 253.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,700 Contributions in the Year 2026
+> 🏆 1,718 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -63,8 +63,8 @@
 ```text
 🌞 Morning                1141 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 🌆 Daytime                12089 commits       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌃 Evening                18754 commits       ██████████░░░░░░░░░░░░░░░   40.25 % 
-🌙 Night                  14613 commits       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌃 Evening                18754 commits       ██████████░░░░░░░░░░░░░░░   40.24 % 
+🌙 Night                  14624 commits       ████████░░░░░░░░░░░░░░░░░   31.38 % 
 ```
 
 
@@ -74,45 +74,44 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       13 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Markdown                 8 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Vue                      6 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Java                     4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Go                       10 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Java                     10 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Markdown                 7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Vue                      7 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+TypeScript               6 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🔥 Editors: 
-IntelliJ IDEA            43 hrs 9 mins       █████████████████████░░░░   85.50 % 
-Claude Code              7 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Sublime Text             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+IntelliJ IDEA            45 hrs              ██████████████████████░░░   86.29 % 
+Claude Code              7 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 
 💻 Operating System: 
-Windows                  36 hrs 13 mins      ██████████████████░░░░░░░   71.76 % 
-Mac                      14 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+Windows                  34 hrs 31 mins      █████████████████░░░░░░░░   66.18 % 
+Mac                      17 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   33.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 48 mins (17.44%)
+⏱ AI Coding Time: 8 hrs 59 mins (17.23%)
 
-✍️ 9,520 lines written by AI, 8,039 lines written by hand (54.22% AI-written)
+✍️ 13,264 lines written by AI, 7,815 lines written by hand (62.93% AI-written)
 
-🔤 29,035,207 Input Tokens, 2,065,040 Output Tokens
+🔤 29,808,182 Input Tokens, 2,138,014 Output Tokens
 
-💵 $381.69 Estimated AI Cost This Week
+💵 $395.15 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 79 AI Prompts
+🧠 21 AI Sessions, 95 AI Prompts
 
-Opus                     9,817 lines         █████████████████████████   100.00 % 
+Opus                     13,489 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.22% of written lines came from AI
-📚 Verbose Prompter — average 2,285 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 86.44% of changed lines were hand-edited
+⚖️ Balanced with AI — 62.93% of written lines came from AI
+📚 Verbose Prompter — average 2,030 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 82.41% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 04:36:47 UTC
+ Last Updated on 27/10/2026 04:57:23 UTC
 <!--END_SECTION:waka-->
