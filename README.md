@@ -48,9 +48,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 257.6 kB Used in GitHub's Storage 
+> 📦 258.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,885 Contributions in the Year 2026
+> 🏆 1,912 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,6 +58,62 @@
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 03/11/2026 06:37:24 UTC
+```text
+🌞 Morning                1141 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+🌆 Daytime                12297 commits       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+🌃 Evening                19313 commits       ██████████░░░░░░░░░░░░░░░   40.31 % 
+🌙 Night                  15164 commits       ████████░░░░░░░░░░░░░░░░░   31.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 14 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+TypeScript               8 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Java                     8 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Python                   7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Vue                      4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+
+🔥 Editors: 
+IntelliJ IDEA            38 hrs 25 mins      █████████████████░░░░░░░░   66.01 % 
+Claude Code              19 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.99 % 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Mac                      29 hrs 17 mins      █████████████░░░░░░░░░░░░   50.33 % 
+Windows                  28 hrs 54 mins      ████████████░░░░░░░░░░░░░   49.67 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 hrs 13 mins (38.18%)
+
+✍️ 12,537 lines written by AI, 10,765 lines written by hand (53.8% AI-written)
+
+🔤 9,808,201 Input Tokens, 2,883,868 Output Tokens
+
+💵 $1191.62 Estimated AI Cost This Week
+
+🧠 41 AI Sessions, 196 AI Prompts
+
+Opus                     13,351 lines        █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 53.8% of written lines came from AI
+📄 Detailed Prompter — average 1,475 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 50.32% of changed lines were hand-edited
+```
+
+
+ Last Updated on 04/11/2026 06:08:28 UTC
 <!--END_SECTION:waka-->
